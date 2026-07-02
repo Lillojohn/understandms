@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Memahami MS: panduan jelas bagi orang-orang di sekitar penyandangnya",
+    "description": "Penjelasan yang jelas dan menenangkan tentang arti multiple sclerosis (MS) dalam kehidupan sehari-hari dan dunia kerja, ditulis untuk pemberi kerja, keluarga, dan pasangan.",
+    "ogTitle": "Memahami MS",
+    "ogDescription": "Apa arti MS dalam kehidupan sehari-hari dan dunia kerja, dijelaskan secara sederhana untuk pemberi kerja, keluarga, dan pasangan."
+  },
+  "hero": {
+    "badge": "± 2 menit membaca · silakan bagikan dengan bebas",
+    "h1": "Memahami MS",
+    "intro": "Panduan yang jelas dan menenangkan tentang arti multiple sclerosis dalam kehidupan sehari-hari dan dunia kerja, ditulis untuk orang-orang di sekitar penyandangnya.",
+    "navLabel": "Lompat ke bagian tertentu",
+    "languageSwitcherLabel": "Pilih bahasa"
+  },
+  "chips": {
+    "employers": "Untuk pemberi kerja",
+    "family": "Untuk keluarga",
+    "partners": "Untuk pasangan"
+  },
+  "core": {
+    "heading": "Singkatnya",
+    "body": "MS memengaruhi sistem saraf. Sistem kekebalan tubuh keliru merusak lapisan pelindung di sekitar saraf, sehingga sinyal antara otak dan tubuh bisa melambat, kacau, atau tidak sampai sama sekali.",
+    "note": "MS berlangsung seumur hidup, berbeda pada setiap orang, dan sebagian besarnya tidak terlihat dari luar."
+  },
+  "metaphorsIntro": {
+    "heading": "Empat cara membayangkannya",
+    "sub": "MS lebih mudah dipahami lewat gambaran sehari-hari daripada istilah medis."
+  },
+  "metaphors": [
+    {
+      "title": "Kabel yang rusak",
+      "body": "Saraf bekerja seperti kabel listrik, dan masing-masing dibungkus lapisan isolasi bernama mielin. Pada MS, isolasi itu rusak. Sinyal tetap berusaha berjalan, tetapi melambat, menyebar, atau memudar. Itulah sebabnya tubuh yang tampak baik-baik saja tetap bisa kesulitan melakukan apa yang diminta otak."
+    },
+    {
+      "title": "Baterai yang lebih cepat habis",
+      "body": "Banyak penyandang MS memulai hari dengan energi yang lebih sedikit, dan tugas biasa pun memakan lebih banyak energi. Mandi, perjalanan ke tempat kerja, atau rapat yang panjang bisa menguras cadangan tenaga untuk sepanjang siang. Ini bukan malas atau kurang motivasi; baterainya memang lebih kecil dan lebih cepat habis."
+    },
+    {
+      "title": "Gunung es yang tersembunyi",
+      "body": "Yang Anda lihat (seseorang yang tampak “sehat-sehat saja”) hanyalah puncaknya. Di bawah permukaan ada kelelahan, nyeri, mati rasa, penglihatan kabur, dan kabut otak. Karena tak terlihat, semua ini mudah diremehkan. Mempercayainya adalah salah satu bentuk dukungan terbesar yang bisa Anda berikan."
+    },
+    {
+      "title": "Cuaca yang berubah-ubah",
+      "body": "MS tidak diam. Gejala bisa berubah dari hari ke hari, bahkan jam ke jam, kadang dipicu oleh panas, stres, atau kelelahan, kadang tanpa alasan yang jelas. Hari yang baik tidak berarti MS telah hilang, dan hari yang buruk tidak berarti MS memburuk. Ini soal cuaca, bukan iklim."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Apa artinya dalam keseharian",
+    "intro": "Tidak ada dua orang dengan kombinasi gejala yang sama, dan gejalanya berubah seiring waktu. Pengalaman yang umum antara lain:",
+    "items": [
+      {
+        "title": "Kelelahan",
+        "desc": "Rasa lelah yang berat dan seakan menenggelamkan, yang tidak selalu hilang dengan istirahat."
+      },
+      {
+        "title": "Sensitif terhadap panas",
+        "desc": "Cuaca hangat, mandi air panas, atau demam bisa memperburuk gejala untuk sesaat."
+      },
+      {
+        "title": "Kabut otak",
+        "desc": "Sulit berkonsentrasi, mencari kata, atau mengingat sesuatu."
+      },
+      {
+        "title": "Mobilitas & keseimbangan",
+        "desc": "Kelemahan, kekakuan, atau ketidakstabilan yang bisa datang dan pergi."
+      },
+      {
+        "title": "Penglihatan & indra",
+        "desc": "Penglihatan kabur atau ganda, kesemutan, mati rasa, atau nyeri."
+      },
+      {
+        "title": "Sulit diprediksi",
+        "desc": "Gejala berubah dari hari ke hari, sehingga rencana kadang harus ikut berubah."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Apa yang membantu, tergantung siapa Anda",
+    "sub": "Hal-hal kecil dan praktis membuat perbedaan yang nyata.",
+    "employers": {
+      "title": "Untuk pemberi kerja & rekan kerja",
+      "subtitle": "Di tempat kerja",
+      "points": [
+        "Berikan keluwesan: jam kerja yang fleksibel, hari kerja jarak jauh, dan ruang yang tenang membantu lebih dari yang Anda kira.",
+        "Beri ruang untuk beristirahat dan jadwal yang dapat diprediksi; perubahan mendadak dan hari-hari panjang tanpa jeda sangat menguras tenaga.",
+        "Nilai dari hasil kerja, bukan dari jam duduk di meja atau dari penampilan seseorang.",
+        "Tanyakan apa yang bisa membantu, dan jaga kerahasiaannya. Penyesuaian kecil membuat orang-orang baik tetap bertahan."
+      ]
+    },
+    "family": {
+      "title": "Untuk keluarga",
+      "subtitle": "Di rumah",
+      "points": [
+        "Percayalah pada gejala yang tak terlihat, bahkan di hari ketika seseorang tampak benar-benar sehat.",
+        "Rencanakan dengan mempertimbangkan energi: sisipkan waktu istirahat dan jangan memadatkan hari.",
+        "Tawarkan bantuan, tetapi biarkan mereka menjaga kemandirian dan pilihan mereka.",
+        "Rencana yang dibatalkan adalah MS yang berbicara, bukan tanda kurangnya perhatian."
+      ]
+    },
+    "partners": {
+      "title": "Untuk pasangan",
+      "subtitle": "Bersama-sama",
+      "points": [
+        "Bicaralah terbuka tentang hari yang baik dan hari yang berat agar bisa merencanakan bersama.",
+        "Bagi beban pikiran soal janji temu dan keputusan tanpa mengambil alih semuanya.",
+        "Tetaplah menjadi pasangan lebih dulu: jangan biarkan seluruh hubungan berubah menjadi merawat.",
+        "Jaga diri Anda juga; dukungan bertahan lebih lama saat Anda tidak berjalan dalam keadaan kosong."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Jika Anda mengingat {count} hal",
+    "items": [
+      "Percayalah, meski Anda tidak bisa melihatnya.",
+      "Bersikaplah luwes: energi dan gejala berubah-ubah.",
+      "Tanyakan, jangan berasumsi: MS setiap orang berbeda.",
+      "Hari yang baik bukan berarti sembuh, dan hari yang buruk bukan berarti akhir."
+    ]
+  },
+  "more": {
+    "heading": "Pelajari lebih lanjut",
+    "intro": "Sumber tepercaya tentang hidup dengan MS:"
+  },
+  "footer": {
+    "disclaimer": "MS berbeda pada setiap orang. Ini adalah informasi umum, bukan nasihat medis. Hal paling berharga yang bisa Anda lakukan adalah bertanya kepada orang yang Anda sayangi tentang bagaimana MS terasa bagi mereka.",
+    "printButton": "Cetak atau simpan sebagai PDF",
+    "madeToShare": "Dibuat untuk dibagikan",
+    "updated": "Terakhir diperbarui: Juli 2026"
+  }
+}

@@ -1,0 +1,108 @@
+@import 'tailwindcss';
+
+/* ---- Warm & modern theme tokens (Tailwind v4 CSS-first config) ---- */
+@theme {
+  /* Warm, calm surface colours */
+  --color-cream: #fdf8f4;
+  --color-sand: #f6ece2;
+
+  /* Primary: warm coral/amber */
+  --color-warm-50: #fff4ed;
+  --color-warm-100: #ffe6d5;
+  --color-warm-200: #fecdaa;
+  --color-warm-300: #fdac74;
+  --color-warm-400: #fb813c;
+  --color-warm-500: #f96316;
+  --color-warm-600: #ea4a0c;
+  --color-warm-700: #c2360c;
+  --color-warm-800: #9a2d12;
+
+  /* Secondary: calm teal/blue (used in illustrations) */
+  --color-calm-100: #d2f0ef;
+  --color-calm-200: #a7e0df;
+  --color-calm-300: #6fc9c8;
+  --color-calm-400: #3aabaa;
+  --color-calm-500: #1d8e8d;
+  --color-calm-600: #16716f;
+
+  /* Ink / text */
+  --color-ink: #2c2622;
+  --color-ink-soft: #5c534c;
+
+  --font-sans:
+    ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica,
+    Arial, 'Apple Color Emoji', 'Segoe UI Emoji', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 2rem;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* ---- Scroll-in reveal (progressive enhancement) ----
+   Content is VISIBLE by default, so it renders with no JS, in print, and on
+   first paint. The reveal plugin adds `.reveal-hidden` only to elements that
+   start below the fold, then removes it as they scroll in. Above-the-fold
+   elements are never hidden, so nothing flashes on load. */
+.reveal {
+  transition:
+    opacity 0.6s ease,
+    transform 0.6s ease;
+  will-change: opacity, transform;
+}
+.reveal.reveal-hidden {
+  opacity: 0;
+  transform: translateY(18px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .reveal,
+  .reveal.reveal-hidden {
+    transition: none;
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ---- Print / "save as PDF": clean, ink-light, everything visible ---- */
+@media print {
+  body {
+    background: #fff !important;
+  }
+  .reveal,
+  .reveal.reveal-hidden {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+  /* Hide purely decorative / interactive chrome */
+  .print-hide {
+    display: none !important;
+  }
+  /* Turn dark panels light so they don't dump ink */
+  .print-light {
+    background: #fff !important;
+    color: var(--color-ink) !important;
+    box-shadow: none !important;
+    border: 1px solid #e5ded7 !important;
+  }
+  .print-light * {
+    color: var(--color-ink) !important;
+  }
+  /* Show link targets so a printed copy is still useful */
+  a[target='_blank']::after {
+    content: ' (' attr(href) ')';
+    font-size: 0.85em;
+    color: #555;
+  }
+}

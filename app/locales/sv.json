@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Att förstå MS: en tydlig guide för de närmaste till någon som lever med det",
+    "description": "En tydlig och lugn förklaring av vad multipel skleros (MS) innebär i vardagen och arbetslivet, skriven för arbetsgivare, familj och partner.",
+    "ogTitle": "Att förstå MS",
+    "ogDescription": "Vad MS innebär i vardagen och arbetslivet, enkelt förklarat för arbetsgivare, familj och partner."
+  },
+  "hero": {
+    "badge": "± 2 minuters läsning · dela den gärna",
+    "h1": "Att förstå MS",
+    "intro": "En tydlig och lugn guide till vad multipel skleros innebär i vardagen och arbetslivet, skriven för de närmaste till någon som lever med det.",
+    "navLabel": "Hoppa till ett avsnitt",
+    "languageSwitcherLabel": "Välj språk"
+  },
+  "chips": {
+    "employers": "För arbetsgivare",
+    "family": "För familj",
+    "partners": "För partner"
+  },
+  "core": {
+    "heading": "Kort sagt",
+    "body": "MS påverkar nervsystemet. Immunförsvaret skadar av misstag det skyddande höljet runt nerverna, så att signaler mellan hjärnan och kroppen kan bli långsammare, förvrängda eller inte komma fram alls.",
+    "note": "Det är livslångt, det ser olika ut för alla, och det mesta syns inte utåt."
+  },
+  "metaphorsIntro": {
+    "heading": "Fyra sätt att föreställa sig det",
+    "sub": "MS är lättare att förstå genom bilder från vardagen än genom medicinska termer."
+  },
+  "metaphors": [
+    {
+      "title": "Den skadade sladden",
+      "body": "Nerver fungerar som elkablar, och varje nerv är omsluten av ett isolerande lager som kallas myelin. Vid MS blir den isoleringen skadad. Signalen försöker fortfarande ta sig fram, men den blir långsammare, splittras eller falnar. Det är därför en kropp som ser frisk ut ändå kan ha svårt att göra det hjärnan ber om."
+    },
+    {
+      "title": "Batteriet som laddar ur snabbare",
+      "body": "Många med MS börjar dagen med mindre energi, och vanliga sysslor kostar mer av den. En dusch, resan till jobbet eller ett långt möte kan förbruka en hel eftermiddags reserv. Det handlar inte om lättja eller bristande motivation; batteriet är helt enkelt mindre och töms snabbare."
+    },
+    {
+      "title": "Det dolda isberget",
+      "body": "Det du ser (någon som verkar ”helt frisk”) är bara toppen. Under ytan finns trötthet, smärta, domningar, suddig syn och hjärndimma. Eftersom det är osynligt underskattas det lätt. Att tro på det är något av det mest stödjande du kan göra."
+    },
+    {
+      "title": "Det skiftande vädret",
+      "body": "MS står inte stilla. Symtomen kan variera från dag till dag, till och med från timme till timme, ibland utlösta av värme, stress eller trötthet, ibland utan tydlig orsak. En bra dag betyder inte att det är borta, och en dålig dag betyder inte att det blir värre. Det är vädret, inte klimatet."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Vad det kan innebära i vardagen",
+    "intro": "Inga två personer har samma blandning, och den förändras över tid. Vanliga upplevelser är bland annat:",
+    "items": [
+      {
+        "title": "Trötthet",
+        "desc": "En tung, överväldigande trötthet som vila inte alltid biter på."
+      },
+      {
+        "title": "Värmekänslighet",
+        "desc": "Varmt väder, en het dusch eller feber kan tillfälligt förvärra symtomen."
+      },
+      {
+        "title": "Hjärndimma",
+        "desc": "Svårt att koncentrera sig, hitta ord eller minnas saker."
+      },
+      {
+        "title": "Rörlighet och balans",
+        "desc": "Svaghet, stelhet eller ostadighet som kan komma och gå."
+      },
+      {
+        "title": "Syn och sinnen",
+        "desc": "Suddig eller dubbel syn, stickningar, domningar eller smärta."
+      },
+      {
+        "title": "Oförutsägbarhet",
+        "desc": "Symtomen varierar från dag till dag, så planer måste ibland ändras."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Vad som hjälper, beroende på vem du är",
+    "sub": "Små, praktiska saker gör verklig skillnad.",
+    "employers": {
+      "title": "För arbetsgivare och kollegor",
+      "subtitle": "På jobbet",
+      "points": [
+        "Erbjud flexibilitet: flexibla tider, dagar på distans och en lugn plats hjälper mer än du tror.",
+        "Ge utrymme för vila och en förutsägbar planering; plötsliga ändringar och långa dagar utan pauser kostar på.",
+        "Bedöm efter resultat, inte efter timmar vid skrivbordet eller hur någon ser ut.",
+        "Fråga vad som skulle hjälpa, och håll det förtroligt. Små anpassningar gör att bra medarbetare stannar kvar."
+      ]
+    },
+    "family": {
+      "title": "För familj",
+      "subtitle": "Hemma",
+      "points": [
+        "Tro på de osynliga symtomen, även de dagar då någon ser helt frisk ut.",
+        "Planera utifrån energin: bygg in vila och packa inte dagen för full.",
+        "Erbjud hjälp, men låt dem behålla sitt oberoende och sina val.",
+        "En inställd plan är MS som talar, inte brist på omtanke."
+      ]
+    },
+    "partners": {
+      "title": "För partner",
+      "subtitle": "Tillsammans",
+      "points": [
+        "Prata öppet om bra och tunga dagar så att ni kan planera tillsammans.",
+        "Dela den mentala bördan av besök och beslut utan att ta över.",
+        "Var partner först: låt inte hela relationen handla om omvårdnad.",
+        "Ta hand om dig själv också; stödet håller längre när du inte kör på tomgång."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Om du minns {count} saker",
+    "items": [
+      "Tro på det, även när du inte kan se det.",
+      "Var flexibel: energi och symtom förändras.",
+      "Fråga, anta inte: allas MS är olika.",
+      "En bra dag är inget botemedel, och en dålig dag är inte slutet."
+    ]
+  },
+  "more": {
+    "heading": "Läs mer",
+    "intro": "Pålitliga källor om att leva med MS:"
+  },
+  "footer": {
+    "disclaimer": "MS ser olika ut för alla. Det här är allmän information, inte medicinsk rådgivning. Det mest värdefulla du kan göra är att fråga personen du bryr dig om hur hens MS känns.",
+    "printButton": "Skriv ut eller spara som PDF",
+    "madeToShare": "Skapad för att delas",
+    "updated": "Senast uppdaterad: juli 2026"
+  }
+}

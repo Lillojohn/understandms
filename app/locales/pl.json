@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Zrozumieć MS: przejrzysty przewodnik dla bliskich osoby, która z nim żyje",
+    "description": "Jasne i spokojne wyjaśnienie, co stwardnienie rozsiane (MS) oznacza w codziennym życiu i w pracy, napisane z myślą o pracodawcach, rodzinie i partnerach.",
+    "ogTitle": "Zrozumieć MS",
+    "ogDescription": "Co MS oznacza w codziennym życiu i w pracy, wyjaśnione prosto dla pracodawców, rodziny i partnerów."
+  },
+  "hero": {
+    "badge": "± 2 minuty czytania · udostępniaj bez ograniczeń",
+    "h1": "Zrozumieć MS",
+    "intro": "Jasny i spokojny przewodnik po tym, co stwardnienie rozsiane oznacza w codziennym życiu i w pracy, napisany dla bliskich osoby, która z nim żyje.",
+    "navLabel": "Przejdź do sekcji",
+    "languageSwitcherLabel": "Wybierz język"
+  },
+  "chips": {
+    "employers": "Dla pracodawców",
+    "family": "Dla rodziny",
+    "partners": "Dla partnerów"
+  },
+  "core": {
+    "heading": "W skrócie",
+    "body": "MS dotyka układu nerwowego. Układ odpornościowy przez pomyłkę uszkadza warstwę ochronną wokół nerwów, przez co sygnały między mózgiem a ciałem mogą płynąć wolniej, docierać zniekształcone albo nie docierać wcale.",
+    "note": "Towarzyszy przez całe życie, u każdego wygląda inaczej i w większości pozostaje niewidoczne z zewnątrz."
+  },
+  "metaphorsIntro": {
+    "heading": "Cztery sposoby, żeby to sobie wyobrazić",
+    "sub": "MS łatwiej zrozumieć przez codzienne obrazy niż przez medyczne pojęcia."
+  },
+  "metaphors": [
+    {
+      "title": "Uszkodzony przewód",
+      "body": "Nerwy działają jak kable elektryczne, a każdy z nich otacza warstwa izolacyjna zwana mieliną. W MS ta izolacja ulega uszkodzeniu. Sygnał wciąż próbuje płynąć, ale zwalnia, rozprasza się albo zanika. Dlatego ciało, które wygląda na sprawne, wciąż może mieć trudność z tym, o co prosi je mózg."
+    },
+    {
+      "title": "Bateria, która rozładowuje się szybciej",
+      "body": "Wiele osób z MS zaczyna dzień z mniejszym zapasem energii, a zwykłe czynności kosztują jej więcej. Prysznic, dojazd do pracy czy długie spotkanie potrafią zużyć rezerwę na całe popołudnie. To nie lenistwo ani brak motywacji; bateria jest po prostu mniejsza i szybciej się opróżnia."
+    },
+    {
+      "title": "Ukryta góra lodowa",
+      "body": "To, co widzisz (ktoś, kto wygląda „całkowicie w porządku”), to tylko czubek. Pod powierzchnią kryją się zmęczenie, ból, drętwienie, zamazane widzenie i mgła umysłowa. Ponieważ są niewidoczne, łatwo je bagatelizować. Uwierzenie w nie to jedna z najbardziej wspierających rzeczy, jakie możesz zrobić."
+    },
+    {
+      "title": "Zmienna pogoda",
+      "body": "MS nie stoi w miejscu. Objawy mogą się zmieniać z dnia na dzień, a nawet z godziny na godzinę, czasem wywołane upałem, stresem lub zmęczeniem, a czasem bez wyraźnego powodu. Dobry dzień nie oznacza, że choroba minęła, a zły dzień nie oznacza, że się pogarsza. To pogoda, nie klimat."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Co to może oznaczać na co dzień",
+    "intro": "U żadnych dwóch osób nie wygląda to tak samo, a z czasem się zmienia. Częste doświadczenia to między innymi:",
+    "items": [
+      {
+        "title": "Zmęczenie",
+        "desc": "Przytłaczające, obezwładniające zmęczenie, którego odpoczynek nie zawsze usuwa."
+      },
+      {
+        "title": "Wrażliwość na ciepło",
+        "desc": "Upał, gorący prysznic lub gorączka mogą na chwilę nasilić objawy."
+      },
+      {
+        "title": "Mgła umysłowa",
+        "desc": "Trudności ze skupieniem, doborem słów lub zapamiętywaniem."
+      },
+      {
+        "title": "Ruch i równowaga",
+        "desc": "Osłabienie, sztywność lub niepewność chodu, które mogą przychodzić i mijać."
+      },
+      {
+        "title": "Wzrok i zmysły",
+        "desc": "Zamazane lub podwójne widzenie, mrowienie, drętwienie lub ból."
+      },
+      {
+        "title": "Nieprzewidywalność",
+        "desc": "Objawy zmieniają się z dnia na dzień, więc plany czasem trzeba zmienić."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Co pomaga, w zależności od tego, kim jesteś",
+    "sub": "Drobne, praktyczne rzeczy naprawdę robią różnicę.",
+    "employers": {
+      "title": "Dla pracodawców i współpracowników",
+      "subtitle": "W pracy",
+      "points": [
+        "Zaoferuj elastyczność: ruchome godziny, praca zdalna i ciche miejsce pomagają bardziej, niż mogłoby się wydawać.",
+        "Umożliwiaj odpoczynek i przewidywalny grafik; nagłe zmiany i długie dni bez przerw dużo kosztują.",
+        "Oceniaj po efektach, a nie po godzinach przy biurku czy po tym, jak ktoś wygląda.",
+        "Zapytaj, co by pomogło, i zachowaj to w poufności. Drobne udogodnienia pozwalają zatrzymać wartościowych ludzi."
+      ]
+    },
+    "family": {
+      "title": "Dla rodziny",
+      "subtitle": "W domu",
+      "points": [
+        "Uwierz w niewidoczne objawy, nawet w dni, gdy ktoś wygląda całkiem zdrowo.",
+        "Planuj z myślą o energii: wpleć odpoczynek i nie zapełniaj dnia po brzegi.",
+        "Proponuj pomoc, ale zostaw tej osobie niezależność i możliwość wyboru.",
+        "Odwołany plan to głos MS, a nie brak troski."
+      ]
+    },
+    "partners": {
+      "title": "Dla partnerów",
+      "subtitle": "Razem",
+      "points": [
+        "Rozmawiajcie otwarcie o dobrych i trudnych dniach, żebyście mogli planować razem.",
+        "Dziel obciążenie związane z wizytami i decyzjami, nie przejmując wszystkiego.",
+        "Bądźcie przede wszystkim partnerami: nie pozwól, by cały związek stał się opieką.",
+        "Dbaj też o siebie; wsparcie trwa dłużej, gdy sam nie działasz na oparach."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Jeśli masz zapamiętać {count} rzeczy",
+    "items": [
+      "Uwierz w to, nawet gdy tego nie widać.",
+      "Bądź elastyczny: energia i objawy się zmieniają.",
+      "Pytaj, nie zakładaj: MS u każdego wygląda inaczej.",
+      "Dobry dzień to nie wyleczenie, a zły dzień to nie koniec."
+    ]
+  },
+  "more": {
+    "heading": "Dowiedz się więcej",
+    "intro": "Wiarygodne źródła o życiu z MS:"
+  },
+  "footer": {
+    "disclaimer": "MS u każdego wygląda inaczej. To ogólne informacje, a nie porada medyczna. Najcenniejsze, co możesz zrobić, to zapytać bliską ci osobę, jak jej MS się objawia.",
+    "printButton": "Wydrukuj lub zapisz jako PDF",
+    "madeToShare": "Stworzone do dzielenia się",
+    "updated": "Ostatnia aktualizacja: lipiec 2026"
+  }
+}

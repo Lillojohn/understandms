@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "MS:n ymmärtäminen: selkeä opas MS-tautia sairastavan läheisille",
+    "description": "Selkeä ja rauhallinen selitys siitä, mitä multippeliskleroosi (MS) tarkoittaa arjessa ja työelämässä. Kirjoitettu työnantajille, perheenjäsenille ja kumppaneille.",
+    "ogTitle": "MS:n ymmärtäminen",
+    "ogDescription": "Mitä MS tarkoittaa arjessa ja työelämässä, selitettynä yksinkertaisesti työnantajille, perheelle ja kumppaneille."
+  },
+  "hero": {
+    "badge": "± 2 minuutin lukuaika · jaa vapaasti",
+    "h1": "MS:n ymmärtäminen",
+    "intro": "Selkeä ja rauhallinen opas siihen, mitä multippeliskleroosi tarkoittaa arjessa ja työelämässä, kirjoitettu MS-tautia sairastavan läheisille.",
+    "navLabel": "Siirry osioon",
+    "languageSwitcherLabel": "Valitse kieli"
+  },
+  "chips": {
+    "employers": "Työnantajille",
+    "family": "Perheelle",
+    "partners": "Kumppaneille"
+  },
+  "core": {
+    "heading": "Lyhyesti",
+    "body": "MS vaikuttaa hermostoon. Immuunijärjestelmä vaurioittaa erehdyksessä hermoja suojaavaa kerrosta, jolloin aivojen ja kehon väliset viestit voivat hidastua, sekoittua tai jäädä kokonaan saapumatta.",
+    "note": "Se on elinikäinen, se on jokaisella erilainen, eikä suurinta osaa siitä näe päällepäin."
+  },
+  "metaphorsIntro": {
+    "heading": "Neljä tapaa hahmottaa se",
+    "sub": "MS:ää on helpompi ymmärtää arkisten mielikuvien kuin lääketieteellisten termien kautta."
+  },
+  "metaphors": [
+    {
+      "title": "Vaurioitunut johto",
+      "body": "Hermot toimivat kuin sähköjohdot, ja jokaista niistä ympäröi eristävä kerros nimeltä myeliini. MS:ssä tämä eristys vaurioituu. Viesti yrittää yhä kulkea, mutta se hidastuu, hajoaa tai haipuu. Siksi keho, joka näyttää kunnossa olevalta, voi silti kamppailla tehdäkseen sen, mitä aivot pyytävät."
+    },
+    {
+      "title": "Akku, joka tyhjenee nopeammin",
+      "body": "Monet MS-tautia sairastavat aloittavat päivän vähemmällä energialla, ja tavalliset askareet kuluttavat sitä enemmän. Suihkussa käynti, työmatka tai pitkä kokous voi kuluttaa koko iltapäivän varannon. Kyse ei ole laiskuudesta tai motivaation puutteesta; akku on yksinkertaisesti pienempi ja tyhjenee nopeammin."
+    },
+    {
+      "title": "Piilossa oleva jäävuori",
+      "body": "Se minkä näet (joku, joka näyttää ”täysin kunnossa olevalta”) on vain huippu. Pinnan alla piilevät uupumus, kipu, tunnottomuus, näön sumeneminen ja aivosumu. Koska nämä ovat näkymättömiä, ne on helppo aliarvioida. Niiden uskominen on yksi tukevimmista asioista, joita voit tehdä."
+    },
+    {
+      "title": "Vaihteleva sää",
+      "body": "MS ei pysy paikallaan. Oireet voivat vaihdella päivästä toiseen, jopa tunnista toiseen, joskus niitä laukaisee kuumuus, stressi tai väsymys, joskus ilman selvää syytä. Hyvä päivä ei tarkoita, että se olisi kadonnut, eikä huono päivä tarkoita, että se pahenisi. Kyse on säästä, ei ilmastosta."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Mitä se voi tarkoittaa arjessa",
+    "intro": "Kahdella ihmisellä ei ole samaa yhdistelmää, ja se muuttuu ajan myötä. Yleisiä kokemuksia ovat:",
+    "items": [
+      {
+        "title": "Uupumus",
+        "desc": "Raskas, hukuttava väsymys, jota lepo ei aina korjaa."
+      },
+      {
+        "title": "Lämmönherkkyys",
+        "desc": "Lämmin sää, kuuma suihku tai kuume voivat hetkellisesti pahentaa oireita."
+      },
+      {
+        "title": "Aivosumu",
+        "desc": "Vaikeuksia keskittyä, löytää sanoja tai muistaa asioita."
+      },
+      {
+        "title": "Liikkuminen ja tasapaino",
+        "desc": "Heikkoutta, jäykkyyttä tai epävakautta, joka voi tulla ja mennä."
+      },
+      {
+        "title": "Näkö ja aistit",
+        "desc": "Sumeaa tai kaksoiskuvaa, pistelyä, tunnottomuutta tai kipua."
+      },
+      {
+        "title": "Ennakoimattomuus",
+        "desc": "Oireet vaihtelevat päivästä toiseen, joten suunnitelmia täytyy joskus muuttaa."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Mikä auttaa, riippuen siitä kuka olet",
+    "sub": "Pienet, käytännölliset asiat tekevät todellisen eron.",
+    "employers": {
+      "title": "Työnantajille ja työtovereille",
+      "subtitle": "Työpaikalla",
+      "points": [
+        "Tarjoa joustavuutta: joustavat työajat, etäpäivät ja rauhallinen tila auttavat enemmän kuin ehkä arvaatkaan.",
+        "Salli lepo ja ennakoitava aikataulu; äkilliset muutokset ja pitkät päivät ilman taukoja tulevat kalliiksi.",
+        "Arvioi tulosten perusteella, ei työpöydän ääressä vietettyjen tuntien tai ulkonäön perusteella.",
+        "Kysy, mikä auttaisi, ja pidä se luottamuksellisena. Pienet järjestelyt pitävät hyvät työntekijät mukana."
+      ]
+    },
+    "family": {
+      "title": "Perheelle",
+      "subtitle": "Kotona",
+      "points": [
+        "Usko näkymättömiä oireita, myös päivinä, jolloin joku näyttää täysin terveeltä.",
+        "Suunnittele energian mukaan: varaa aikaa lepoon äläkä täytä päivää liian täyteen.",
+        "Tarjoa apua, mutta anna hänen säilyttää itsenäisyytensä ja valintansa.",
+        "Peruttu suunnitelma on MS:n puhetta, ei välinpitämättömyyttä."
+      ]
+    },
+    "partners": {
+      "title": "Kumppaneille",
+      "subtitle": "Yhdessä",
+      "points": [
+        "Puhukaa avoimesti hyvistä ja vaikeista päivistä, jotta voitte suunnitella yhdessä.",
+        "Jakakaa vastaanottojen ja päätösten henkinen kuorma ottamatta ohjia täysin käsiinne.",
+        "Pysykää ensisijaisesti kumppaneina: älkää antako koko suhteenne muuttua hoivaamiseksi.",
+        "Pidä huolta myös itsestäsi; tuki kestää pidempään, kun et ole aivan lopussa."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Jos muistat {count} asiaa",
+    "items": [
+      "Usko se, vaikka et näekään sitä.",
+      "Ole joustava: energia ja oireet muuttuvat.",
+      "Kysy, älä oleta: jokaisen MS on erilainen.",
+      "Hyvä päivä ei ole parannuskeino, eikä huono päivä ole loppu."
+    ]
+  },
+  "more": {
+    "heading": "Lue lisää",
+    "intro": "Luotettavia lähteitä elämästä MS:n kanssa:"
+  },
+  "footer": {
+    "disclaimer": "MS on jokaisella erilainen. Tämä on yleistä tietoa, ei lääketieteellistä neuvontaa. Arvokkainta, mitä voit tehdä, on kysyä läheiseltäsi, miltä hänen MS:nsä tuntuu.",
+    "printButton": "Tulosta tai tallenna PDF-tiedostona",
+    "madeToShare": "Tehty jaettavaksi",
+    "updated": "Päivitetty viimeksi: heinäkuu 2026"
+  }
+}

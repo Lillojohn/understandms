@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "MS begrijpen: een heldere gids voor de mensen om iemand met MS heen",
+    "description": "Een heldere, rustige uitleg over wat multiple sclerose (MS) betekent in het dagelijks leven en op het werk, geschreven voor werkgevers, familie en partners.",
+    "ogTitle": "MS begrijpen",
+    "ogDescription": "Wat MS betekent in het dagelijks leven en op het werk, eenvoudig uitgelegd voor werkgevers, familie en partners."
+  },
+  "hero": {
+    "badge": "± 2 minuten lezen · deel het gerust",
+    "h1": "MS begrijpen",
+    "intro": "Een heldere, rustige uitleg over wat multiple sclerose betekent in het dagelijks leven en op het werk, geschreven voor de mensen om iemand met MS heen.",
+    "navLabel": "Ga naar een onderdeel",
+    "languageSwitcherLabel": "Kies een taal"
+  },
+  "chips": {
+    "employers": "Voor werkgevers",
+    "family": "Voor familie",
+    "partners": "Voor partners"
+  },
+  "core": {
+    "heading": "In het kort",
+    "body": "MS raakt het zenuwstelsel. Het afweersysteem beschadigt per ongeluk de beschermlaag rondom de zenuwen, waardoor signalen tussen de hersenen en het lichaam kunnen vertragen, door de war raken of helemaal niet aankomen.",
+    "note": "Het is levenslang, het is voor iedereen anders, en het meeste is van buitenaf niet te zien."
+  },
+  "metaphorsIntro": {
+    "heading": "Vier manieren om het voor je te zien",
+    "sub": "MS is makkelijker te begrijpen via alledaagse beelden dan via medische termen."
+  },
+  "metaphors": [
+    {
+      "title": "De beschadigde draad",
+      "body": "Zenuwen werken als elektriciteitskabels, en elke kabel is omwikkeld met een isolatielaag die myeline heet. Bij MS raakt die isolatie beschadigd. Het signaal probeert nog wel te reizen, maar het vertraagt, verspreidt of vervaagt. Daarom kan een lichaam dat er prima uitziet toch moeite hebben met wat de hersenen vragen."
+    },
+    {
+      "title": "De batterij die sneller leegloopt",
+      "body": "Veel mensen met MS beginnen de dag met minder energie, en gewone taken kosten er meer van. Douchen, reizen of een lange vergadering kan de reserve voor een hele middag opmaken. Dit is geen luiheid of gebrek aan motivatie; de batterij is simpelweg kleiner en loopt sneller leeg."
+    },
+    {
+      "title": "De verborgen ijsberg",
+      "body": "Wat je ziet (iemand die er “helemaal prima” uitziet) is maar het topje. Onder de oppervlakte zitten vermoeidheid, pijn, doofheid, wazig zien en hersenmist. Omdat die onzichtbaar zijn, worden ze makkelijk onderschat. Ze geloven is een van de meest steunende dingen die je kunt doen."
+    },
+    {
+      "title": "Het wisselende weer",
+      "body": "MS staat niet stil. Klachten kunnen per dag verschillen, zelfs per uur, soms door warmte, stress of vermoeidheid, soms zonder duidelijke reden. Een goede dag betekent niet dat het weg is, en een slechte dag betekent niet dat het slechter wordt. Het is het weer, niet het klimaat."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Wat het dagelijks kan betekenen",
+    "intro": "Geen twee mensen hebben dezelfde combinatie, en het verandert in de loop van de tijd. Veelvoorkomende ervaringen zijn:",
+    "items": [
+      {
+        "title": "Vermoeidheid",
+        "desc": "Een zware, verdrinkende moeheid die met rust niet altijd overgaat."
+      },
+      {
+        "title": "Warmtegevoeligheid",
+        "desc": "Warm weer, een hete douche of koorts kan klachten tijdelijk verergeren."
+      },
+      {
+        "title": "Hersenmist",
+        "desc": "Moeite met concentreren, op woorden komen of dingen onthouden."
+      },
+      {
+        "title": "Mobiliteit & balans",
+        "desc": "Zwakte, stijfheid of onvastheid die kan komen en gaan."
+      },
+      {
+        "title": "Zicht & gevoel",
+        "desc": "Wazig of dubbel zien, tintelingen, doofheid of pijn."
+      },
+      {
+        "title": "Onvoorspelbaarheid",
+        "desc": "Klachten wisselen per dag, dus soms moeten plannen veranderen."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Wat helpt, afhankelijk van wie je bent",
+    "sub": "Kleine, praktische dingen maken echt verschil.",
+    "employers": {
+      "title": "Voor werkgevers & collega’s",
+      "subtitle": "Op het werk",
+      "points": [
+        "Bied flexibiliteit: flexibele uren, thuiswerkdagen en een rustige plek helpen meer dan je denkt.",
+        "Maak rust en voorspelbare planning mogelijk; plotselinge veranderingen en lange dagen zonder pauze zijn kostbaar.",
+        "Beoordeel op resultaat, niet op uren achter een bureau of hoe iemand eruitziet.",
+        "Vraag wat zou helpen, en houd het vertrouwelijk. Kleine aanpassingen houden goede mensen binnen."
+      ]
+    },
+    "family": {
+      "title": "Voor familie",
+      "subtitle": "Thuis",
+      "points": [
+        "Geloof de onzichtbare klachten, ook op dagen dat iemand er helemaal goed uitziet.",
+        "Plan rond energie: bouw rust in en plan de dag niet te vol.",
+        "Bied hulp, maar laat iemand zijn zelfstandigheid en keuzes houden.",
+        "Een afgezegde afspraak is de MS die spreekt, niet een gebrek aan betrokkenheid."
+      ]
+    },
+    "partners": {
+      "title": "Voor partners",
+      "subtitle": "Samen",
+      "points": [
+        "Praat open over goede en zware dagen, zodat jullie samen kunnen plannen.",
+        "Deel de mentale last van afspraken en beslissingen, zonder het over te nemen.",
+        "Blijf eerst partners: laat niet je hele relatie zorgverlening worden.",
+        "Zorg ook goed voor jezelf; steun houdt langer stand als je niet op je reserve loopt."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Als je {count} dingen onthoudt",
+    "items": [
+      "Geloof het, ook als je het niet kunt zien.",
+      "Wees flexibel: energie en klachten wisselen.",
+      "Vraag, ga niet uit van aannames: ieders MS is anders.",
+      "Een goede dag is geen genezing, en een slechte dag is niet het einde."
+    ]
+  },
+  "more": {
+    "heading": "Meer weten",
+    "intro": "Betrouwbare bronnen over leven met MS:"
+  },
+  "footer": {
+    "disclaimer": "MS is voor iedereen anders. Dit is algemene informatie, geen medisch advies. Het meest waardevolle wat je kunt doen, is de persoon om wie je geeft vragen hoe hun MS voelt.",
+    "printButton": "Printen of opslaan als PDF",
+    "madeToShare": "Gemaakt om te delen",
+    "updated": "Laatst bijgewerkt: juli 2026"
+  }
+}

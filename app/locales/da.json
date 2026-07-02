@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Forstå MS: en klar guide til dem, der er tæt på en, der lever med det",
+    "description": "En klar, rolig forklaring på, hvad multipel sklerose (MS) betyder i hverdagen og arbejdslivet, skrevet til arbejdsgivere, familie og partnere.",
+    "ogTitle": "Forstå MS",
+    "ogDescription": "Hvad MS betyder i hverdagen og arbejdslivet, forklaret enkelt for arbejdsgivere, familie og partnere."
+  },
+  "hero": {
+    "badge": "± 2 minutters læsning · del den frit",
+    "h1": "Forstå MS",
+    "intro": "En klar, rolig guide til, hvad multipel sklerose betyder i hverdagen og arbejdslivet, skrevet til dem, der er tæt på en, der lever med det.",
+    "navLabel": "Spring til et afsnit",
+    "languageSwitcherLabel": "Vælg sprog"
+  },
+  "chips": {
+    "employers": "Til arbejdsgivere",
+    "family": "Til familie",
+    "partners": "Til partnere"
+  },
+  "core": {
+    "heading": "Kort fortalt",
+    "body": "MS påvirker nervesystemet. Immunforsvaret kommer til at skade det beskyttende lag omkring nerverne, så signalerne mellem hjernen og kroppen kan blive langsommere, komme i uorden eller slet ikke nå frem.",
+    "note": "Den er livslang, den er forskellig fra person til person, og det meste kan ikke ses udefra."
+  },
+  "metaphorsIntro": {
+    "heading": "Fire måder at forestille sig det på",
+    "sub": "MS er lettere at forstå gennem billeder fra hverdagen end gennem lægefaglige udtryk."
+  },
+  "metaphors": [
+    {
+      "title": "Den beskadigede ledning",
+      "body": "Nerver fungerer som elektriske kabler, og hver enkelt er pakket ind i et isolerende lag, der kaldes myelin. Ved MS bliver denne isolering beskadiget. Signalet forsøger stadig at komme frem, men det bliver langsommere, spredes eller forsvinder, og derfor kan en krop, der ser rask ud, alligevel have svært ved at gøre det, hjernen beder om."
+    },
+    {
+      "title": "Batteriet, der løber hurtigere tør",
+      "body": "Mange med MS starter dagen med mindre energi, og helt almindelige opgaver koster mere af den. Et bad, en pendlertur eller et langt møde kan bruge en hel eftermiddags reserve op. Det handler ikke om dovenskab eller manglende vilje; batteriet er ganske enkelt mindre og tømmes hurtigere."
+    },
+    {
+      "title": "Det skjulte isbjerg",
+      "body": "Det, du ser (en, der ser “helt rask” ud), er kun toppen. Under overfladen ligger træthed, smerter, følelsesløshed, sløret syn og hjernetåge. Fordi disse ting er usynlige, bliver de let undervurderet. At tro på dem er noget af det mest støttende, du kan gøre."
+    },
+    {
+      "title": "Det skiftende vejr",
+      "body": "MS står ikke stille. Symptomerne kan variere fra dag til dag, ja endda fra time til time, nogle gange udløst af varme, stress eller træthed, nogle gange uden nogen tydelig grund. En god dag betyder ikke, at det er væk, og en dårlig dag betyder ikke, at det bliver værre. Det er vejret, ikke klimaet."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Hvad det kan betyde i hverdagen",
+    "intro": "Ingen to personer har den samme blanding, og den ændrer sig med tiden. Almindelige oplevelser er blandt andet:",
+    "items": [
+      {
+        "title": "Træthed",
+        "desc": "En tung, overvældende træthed, som hvile ikke altid kan råde bod på."
+      },
+      {
+        "title": "Varmefølsomhed",
+        "desc": "Varmt vejr, et varmt bad eller feber kan kortvarigt forværre symptomerne."
+      },
+      {
+        "title": "Hjernetåge",
+        "desc": "Svært ved at koncentrere sig, finde ordene eller huske ting."
+      },
+      {
+        "title": "Bevægelse & balance",
+        "desc": "Kraftløshed, stivhed eller ustabilitet, der kan komme og gå."
+      },
+      {
+        "title": "Syn & sanser",
+        "desc": "Sløret eller dobbelt syn, prikken, følelsesløshed eller smerter."
+      },
+      {
+        "title": "Uforudsigelighed",
+        "desc": "Symptomerne varierer fra dag til dag, så planer må nogle gange laves om."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Hvad der hjælper, alt efter hvem du er",
+    "sub": "Små, praktiske ting gør en reel forskel.",
+    "employers": {
+      "title": "Til arbejdsgivere & kolleger",
+      "subtitle": "På arbejdet",
+      "points": [
+        "Tilbyd fleksibilitet: fleksible arbejdstider, hjemmearbejdsdage og et roligt sted hjælper mere, end du måske tror.",
+        "Giv plads til hvile og forudsigelig planlægning; pludselige ændringer og lange dage uden pauser koster dyrt.",
+        "Vurdér ud fra resultater, ikke ud fra timer ved skrivebordet eller hvordan nogen ser ud.",
+        "Spørg, hvad der ville hjælpe, og behandl det fortroligt. Små tilpasninger holder dygtige mennesker om bord."
+      ]
+    },
+    "family": {
+      "title": "Til familie",
+      "subtitle": "Derhjemme",
+      "points": [
+        "Tro på de usynlige symptomer, også på dage hvor nogen ser helt rask ud.",
+        "Planlæg ud fra energien: byg hvile ind, og pak ikke dagen for tæt.",
+        "Tilbyd hjælp, men lad dem beholde deres selvstændighed og valg.",
+        "En aflyst plan er MS'en, der taler, ikke mangel på omsorg."
+      ]
+    },
+    "partners": {
+      "title": "Til partnere",
+      "subtitle": "Sammen",
+      "points": [
+        "Tal åbent om gode og svære dage, så I kan planlægge sammen.",
+        "Del den mentale byrde med aftaler og beslutninger uden at overtage.",
+        "Vær partnere først: lad ikke hele jeres forhold blive til pleje.",
+        "Pas også på dig selv; støtte holder længere, når du ikke kører på reserverne."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Hvis du husker {count} ting",
+    "items": [
+      "Tro på det, også når du ikke kan se det.",
+      "Vær fleksibel: energi og symptomer skifter.",
+      "Spørg, gå ikke ud fra noget: alles MS er forskellig.",
+      "En god dag er ingen helbredelse, og en dårlig dag er ikke enden."
+    ]
+  },
+  "more": {
+    "heading": "Læs mere",
+    "intro": "Pålidelige kilder om livet med MS:"
+  },
+  "footer": {
+    "disclaimer": "MS er forskellig fra person til person. Dette er generel information, ikke lægelig rådgivning. Det mest værdifulde, du kan gøre, er at spørge den, du holder af, hvordan deres MS føles.",
+    "printButton": "Udskriv eller gem som PDF",
+    "madeToShare": "Skabt til at blive delt",
+    "updated": "Sidst opdateret: juli 2026"
+  }
+}

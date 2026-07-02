@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "MS'i anlamak: MS ile yaşayan birinin çevresindekiler için anlaşılır bir rehber",
+    "description": "Multipl skleroz (MS) hastalığının gündelik hayatta ve iş yaşamında ne anlama geldiğine dair anlaşılır, sakin bir açıklama; işverenler, aile ve eşler için yazıldı.",
+    "ogTitle": "MS'i anlamak",
+    "ogDescription": "MS'in gündelik hayatta ve iş yaşamında ne anlama geldiği, işverenler, aile ve eşler için yalın bir dille anlatıldı."
+  },
+  "hero": {
+    "badge": "± 2 dakikalık okuma · gönül rahatlığıyla paylaşın",
+    "h1": "MS'i anlamak",
+    "intro": "Multipl sklerozun gündelik hayatta ve iş yaşamında ne anlama geldiğine dair anlaşılır, sakin bir rehber. MS ile yaşayan birinin çevresindekiler için yazıldı.",
+    "navLabel": "Bir bölüme geç",
+    "languageSwitcherLabel": "Dil seçin"
+  },
+  "chips": {
+    "employers": "İşverenler için",
+    "family": "Aile için",
+    "partners": "Eşler için"
+  },
+  "core": {
+    "heading": "Kısaca",
+    "body": "MS, sinir sistemini etkiler. Bağışıklık sistemi yanlışlıkla sinirlerin çevresindeki koruyucu katmana zarar verir; böylece beyin ile beden arasındaki sinyaller yavaşlayabilir, karışabilir ya da hiç ulaşmayabilir.",
+    "note": "Ömür boyu sürer, herkeste farklıdır ve büyük kısmı dışarıdan görünmez."
+  },
+  "metaphorsIntro": {
+    "heading": "Onu zihninizde canlandırmanın dört yolu",
+    "sub": "MS, tıbbi terimlerden çok gündelik görüntülerle daha kolay anlaşılır."
+  },
+  "metaphors": [
+    {
+      "title": "Hasarlı kablo",
+      "body": "Sinirler elektrik kabloları gibi çalışır ve her biri miyelin adı verilen yalıtkan bir katmanla kaplıdır. MS'te bu yalıtım hasar görür. Sinyal yine de ilerlemeye çalışır ama yavaşlar, dağılır ya da zayıflar. İşte bu yüzden sağlıklı görünen bir beden, beynin istediğini yapmakta yine de zorlanabilir."
+    },
+    {
+      "title": "Daha hızlı tükenen pil",
+      "body": "MS'li birçok kişi güne daha az enerjiyle başlar ve sıradan işler bu enerjiden daha fazlasını götürür. Bir duş, işe gidiş geliş ya da uzun bir toplantı, bütün bir öğle sonrasının rezervini tüketebilir. Bu tembellik ya da isteksizlik değil; pil basitçe daha küçüktür ve daha çabuk boşalır."
+    },
+    {
+      "title": "Görünmeyen buzdağı",
+      "body": "Sizin gördüğünüz (\"gayet iyi\" görünen biri) yalnızca görünen kısımdır. Yüzeyin altında yorgunluk, ağrı, uyuşukluk, bulanık görme ve zihin bulanıklığı yatar. Görünmez oldukları için de kolayca hafife alınırlar. Onlara inanmak, yapabileceğiniz en destekleyici şeylerden biridir."
+    },
+    {
+      "title": "Değişen hava durumu",
+      "body": "MS yerinde durmaz. Belirtiler günden güne, hatta saatten saate değişebilir; kimi zaman sıcak, stres ya da yorgunlukla tetiklenir, kimi zaman da belli bir neden olmadan. İyi bir gün MS'in geçtiği anlamına gelmez, kötü bir gün de kötüye gittiği anlamına gelmez. Bu hava durumudur, iklim değil."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Gündelik hayatta ne anlama gelebilir",
+    "intro": "Hiçbir iki kişide belirtiler aynı biçimde bir araya gelmez ve zamanla değişir. Sık görülen deneyimler şunlardır:",
+    "items": [
+      {
+        "title": "Yorgunluk",
+        "desc": "Dinlenmenin her zaman gidermediği, ağır, insanı boğan bir yorgunluk."
+      },
+      {
+        "title": "Sıcağa duyarlılık",
+        "desc": "Sıcak hava, sıcak bir duş ya da ateş, belirtileri kısa süreliğine ağırlaştırabilir."
+      },
+      {
+        "title": "Zihin bulanıklığı",
+        "desc": "Odaklanmakta, kelime bulmakta ya da bir şeyleri hatırlamakta zorlanma."
+      },
+      {
+        "title": "Hareket ve denge",
+        "desc": "Gelip geçebilen güçsüzlük, tutukluk ya da dengesizlik."
+      },
+      {
+        "title": "Görme ve duyular",
+        "desc": "Bulanık ya da çift görme, karıncalanma, uyuşukluk ya da ağrı."
+      },
+      {
+        "title": "Öngörülemezlik",
+        "desc": "Belirtiler günden güne değişir, bu yüzden planların bazen değişmesi gerekir."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Kim olduğunuza göre neler yardımcı olur",
+    "sub": "Küçük, pratik şeyler gerçekten fark yaratır.",
+    "employers": {
+      "title": "İşverenler ve iş arkadaşları için",
+      "subtitle": "İş yerinde",
+      "points": [
+        "Esneklik sunun: esnek çalışma saatleri, uzaktan çalışılan günler ve sessiz bir alan, düşündüğünüzden çok daha fazla yardımcı olur.",
+        "Dinlenmeye ve öngörülebilir bir programa izin verin; ani değişiklikler ve molasız uzun günler ağır bir bedele mal olur.",
+        "Kişiyi masa başında geçirdiği saatlere ya da görünüşüne göre değil, sonuçlara göre değerlendirin.",
+        "Neyin yardımcı olacağını sorun ve bunu gizli tutun. Küçük düzenlemeler, değerli çalışanları elde tutar."
+      ]
+    },
+    "family": {
+      "title": "Aile için",
+      "subtitle": "Evde",
+      "points": [
+        "Kişi gayet iyi göründüğü günlerde bile, görünmeyen belirtilere inanın.",
+        "Enerjiye göre plan yapın: araya dinlenme ekleyin ve günü fazla doldurmayın.",
+        "Yardım teklif edin ama bağımsızlığını ve seçme özgürlüğünü korumasına izin verin.",
+        "İptal edilen bir plan, ilgisizlik değil MS'in konuşmasıdır."
+      ]
+    },
+    "partners": {
+      "title": "Eşler için",
+      "subtitle": "Birlikte",
+      "points": [
+        "İyi ve zor günler hakkında açıkça konuşun ki birlikte plan yapabilesiniz.",
+        "Randevuların ve kararların zihinsel yükünü, kontrolü tamamen ele almadan paylaşın.",
+        "Önce eş kalın: tüm ilişkinizin bir bakıcılığa dönüşmesine izin vermeyin.",
+        "Kendinize de bakın; kendinizi tüketmediğinizde verdiğiniz destek daha uzun sürer."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Aklınızda {count} şey kalacaksa",
+    "items": [
+      "Göremeseniz bile inanın.",
+      "Esnek olun: enerji ve belirtiler değişir.",
+      "Varsaymayın, sorun: herkesin MS'i farklıdır.",
+      "İyi bir gün bir tedavi değildir, kötü bir gün de son değildir."
+    ]
+  },
+  "more": {
+    "heading": "Daha fazlasını öğrenin",
+    "intro": "MS ile yaşam hakkında güvenilir kaynaklar:"
+  },
+  "footer": {
+    "disclaimer": "MS herkeste farklıdır. Bu genel bir bilgidir, tıbbi tavsiye değildir. Yapabileceğiniz en değerli şey, önemsediğiniz kişiye MS'in ona nasıl hissettirdiğini sormaktır.",
+    "printButton": "Yazdır ya da PDF olarak kaydet",
+    "madeToShare": "Paylaşılmak için hazırlandı",
+    "updated": "Son güncelleme: Temmuz 2026"
+  }
+}

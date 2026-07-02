@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Understanding MS: a clear guide for the people around someone living with it",
+    "description": "A clear, calm explanation of what multiple sclerosis (MS) means in everyday and working life, written for employers, family and partners.",
+    "ogTitle": "Understanding MS",
+    "ogDescription": "What MS means in everyday and working life, explained simply for employers, family and partners."
+  },
+  "hero": {
+    "badge": "± 2 minute read · share it freely",
+    "h1": "Understanding MS",
+    "intro": "A clear, calm guide to what multiple sclerosis means in everyday and working life, written for the people around someone living with it.",
+    "navLabel": "Jump to a section",
+    "languageSwitcherLabel": "Choose a language"
+  },
+  "chips": {
+    "employers": "For employers",
+    "family": "For family",
+    "partners": "For partners"
+  },
+  "core": {
+    "heading": "In short",
+    "body": "MS affects the nervous system. The immune system mistakenly damages the protective layer around the nerves, so signals between the brain and the body can slow down, get scrambled, or not arrive at all.",
+    "note": "It's lifelong, it's different for everyone, and most of it can't be seen from the outside."
+  },
+  "metaphorsIntro": {
+    "heading": "Four ways to picture it",
+    "sub": "MS is easier to understand through everyday images than medical terms."
+  },
+  "metaphors": [
+    {
+      "title": "The damaged wire",
+      "body": "Nerves work like electrical cables, and each one is wrapped in an insulating layer called myelin. In MS that insulation gets damaged. The signal still tries to travel, but it slows down, scatters or fades. That's why a body that looks fine can still struggle to do what the brain is asking."
+    },
+    {
+      "title": "The battery that drains faster",
+      "body": "Many people with MS start the day with less energy, and ordinary tasks cost more of it. Showering, commuting or a long meeting can use up a whole afternoon's reserve. This isn't laziness or a lack of motivation; the battery is simply smaller and empties faster."
+    },
+    {
+      "title": "The hidden iceberg",
+      "body": "What you see (someone who looks “completely fine”) is just the tip. Below the surface sit fatigue, pain, numbness, blurred vision and brain fog. Because these are invisible, they're easily underestimated. Believing them is one of the most supportive things you can do."
+    },
+    {
+      "title": "The changing weather",
+      "body": "MS doesn't stand still. Symptoms can vary from day to day, even hour to hour, sometimes triggered by heat, stress or tiredness, sometimes for no clear reason. A good day doesn't mean it's gone, and a bad day doesn't mean it's getting worse. It's the weather, not the climate."
+    }
+  ],
+  "dayToDay": {
+    "heading": "What it can mean day to day",
+    "intro": "No two people have the same mix, and it changes over time. Common experiences include:",
+    "items": [
+      {
+        "title": "Fatigue",
+        "desc": "A heavy, drowning tiredness that rest doesn't always fix."
+      },
+      {
+        "title": "Heat sensitivity",
+        "desc": "Warm weather, a hot shower or a fever can briefly worsen symptoms."
+      },
+      {
+        "title": "Brain fog",
+        "desc": "Trouble concentrating, finding words or remembering things."
+      },
+      {
+        "title": "Mobility & balance",
+        "desc": "Weakness, stiffness or unsteadiness that can come and go."
+      },
+      {
+        "title": "Vision & senses",
+        "desc": "Blurred or double vision, tingling, numbness or pain."
+      },
+      {
+        "title": "Unpredictability",
+        "desc": "Symptoms vary from day to day, so plans sometimes have to change."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "What helps, depending on who you are",
+    "sub": "Small, practical things make a real difference.",
+    "employers": {
+      "title": "For employers & colleagues",
+      "subtitle": "At work",
+      "points": [
+        "Offer flexibility: flexible hours, remote days and a quiet space help more than you might expect.",
+        "Allow rest and predictable scheduling; sudden changes and long days without breaks are costly.",
+        "Judge by results, not by hours at a desk or how someone looks.",
+        "Ask what would help, and keep it confidential. Small adjustments keep good people on board."
+      ]
+    },
+    "family": {
+      "title": "For family",
+      "subtitle": "At home",
+      "points": [
+        "Believe the invisible symptoms, even on days someone looks completely well.",
+        "Plan around energy: build in rest and don't over-pack the day.",
+        "Offer help, but let them keep their independence and choices.",
+        "A cancelled plan is the MS talking, not a lack of care."
+      ]
+    },
+    "partners": {
+      "title": "For partners",
+      "subtitle": "Together",
+      "points": [
+        "Talk openly about good and hard days so you can plan together.",
+        "Share the mental load of appointments and decisions without taking over.",
+        "Stay partners first: don't let your whole relationship become care-giving.",
+        "Look after yourself too; support lasts longer when you're not running on empty."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "If you remember {count} things",
+    "items": [
+      "Believe it, even when you can't see it.",
+      "Be flexible: energy and symptoms change.",
+      "Ask, don't assume: everyone's MS is different.",
+      "A good day isn't a cure, and a bad day isn't the end."
+    ]
+  },
+  "more": {
+    "heading": "Learn more",
+    "intro": "Trusted resources on living with MS:"
+  },
+  "footer": {
+    "disclaimer": "MS is different for everyone. This is general information, not medical advice. The most valuable thing you can do is ask the person you care about what their MS feels like.",
+    "printButton": "Print or save as PDF",
+    "madeToShare": "Made to be shared",
+    "updated": "Last updated: July 2026"
+  }
+}

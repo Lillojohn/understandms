@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Comprendre la MS : un guide clair pour les proches d'une personne qui en est atteinte",
+    "description": "Une explication claire et posée de ce que la sclérose en plaques (MS) signifie au quotidien et au travail, écrite pour les employeurs, la famille et les partenaires.",
+    "ogTitle": "Comprendre la MS",
+    "ogDescription": "Ce que la MS signifie au quotidien et au travail, expliqué simplement pour les employeurs, la famille et les partenaires."
+  },
+  "hero": {
+    "badge": "± 2 minutes de lecture · à partager librement",
+    "h1": "Comprendre la MS",
+    "intro": "Un guide clair et posé sur ce que la sclérose en plaques signifie au quotidien et au travail, écrit pour les proches d'une personne qui en est atteinte.",
+    "navLabel": "Aller à une section",
+    "languageSwitcherLabel": "Choisir une langue"
+  },
+  "chips": {
+    "employers": "Pour les employeurs",
+    "family": "Pour la famille",
+    "partners": "Pour les partenaires"
+  },
+  "core": {
+    "heading": "En bref",
+    "body": "La MS touche le système nerveux. Le système immunitaire endommage par erreur la couche protectrice qui entoure les nerfs, si bien que les signaux entre le cerveau et le corps peuvent ralentir, se brouiller ou ne jamais arriver.",
+    "note": "Elle dure toute la vie, elle est différente pour chacun, et l'essentiel ne se voit pas de l'extérieur."
+  },
+  "metaphorsIntro": {
+    "heading": "Quatre façons de se la représenter",
+    "sub": "La MS se comprend plus facilement à travers des images du quotidien qu'avec des termes médicaux."
+  },
+  "metaphors": [
+    {
+      "title": "Le fil abîmé",
+      "body": "Les nerfs fonctionnent comme des câbles électriques, chacun enveloppé d'une couche isolante appelée myéline. Dans la MS, cet isolant est endommagé. Le signal essaie toujours de circuler, mais il ralentit, se disperse ou s'estompe. C'est pourquoi un corps qui semble aller bien peut malgré tout avoir du mal à faire ce que le cerveau lui demande."
+    },
+    {
+      "title": "La batterie qui se vide plus vite",
+      "body": "Beaucoup de personnes atteintes de MS commencent la journée avec moins d'énergie, et les tâches ordinaires en consomment davantage. Prendre une douche, faire le trajet ou tenir une longue réunion peut épuiser toute la réserve d'un après-midi. Ce n'est ni de la paresse ni un manque de motivation : la batterie est simplement plus petite et se vide plus vite."
+    },
+    {
+      "title": "L'iceberg caché",
+      "body": "Ce que vous voyez (quelqu'un qui a l'air « en pleine forme ») n'est que la partie émergée. Sous la surface se cachent la fatigue, la douleur, les engourdissements, la vision floue et le brouillard mental. Comme ils sont invisibles, on les sous-estime facilement. Les croire est l'une des choses les plus soutenantes que vous puissiez faire."
+    },
+    {
+      "title": "La météo changeante",
+      "body": "La MS n'est jamais figée. Les symptômes peuvent varier d'un jour à l'autre, voire d'une heure à l'autre, parfois déclenchés par la chaleur, le stress ou la fatigue, parfois sans raison évidente. Une bonne journée ne veut pas dire que c'est fini, et une mauvaise journée ne veut pas dire que ça s'aggrave. C'est la météo, pas le climat."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Ce que cela peut vouloir dire au quotidien",
+    "intro": "Il n'y a pas deux personnes qui vivent le même mélange, et cela évolue avec le temps. Voici des expériences fréquentes :",
+    "items": [
+      {
+        "title": "La fatigue",
+        "desc": "Une fatigue lourde, presque envahissante, que le repos ne suffit pas toujours à dissiper."
+      },
+      {
+        "title": "La sensibilité à la chaleur",
+        "desc": "Le temps chaud, une douche brûlante ou une fièvre peuvent aggraver brièvement les symptômes."
+      },
+      {
+        "title": "Le brouillard mental",
+        "desc": "Des difficultés à se concentrer, à trouver ses mots ou à se souvenir des choses."
+      },
+      {
+        "title": "Mobilité et équilibre",
+        "desc": "Une faiblesse, une raideur ou une instabilité qui peuvent aller et venir."
+      },
+      {
+        "title": "Vision et sensations",
+        "desc": "Une vision floue ou double, des picotements, des engourdissements ou des douleurs."
+      },
+      {
+        "title": "L'imprévisibilité",
+        "desc": "Les symptômes varient d'un jour à l'autre, si bien que les plans doivent parfois changer."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Ce qui aide, selon qui vous êtes",
+    "sub": "De petites choses concrètes font une vraie différence.",
+    "employers": {
+      "title": "Pour les employeurs et les collègues",
+      "subtitle": "Au travail",
+      "points": [
+        "Offrez de la souplesse : des horaires flexibles, des jours en télétravail et un espace calme aident plus que vous ne l'imaginez.",
+        "Permettez le repos et un emploi du temps prévisible ; les changements soudains et les longues journées sans pause coûtent cher.",
+        "Jugez sur les résultats, pas sur les heures passées au bureau ni sur l'apparence.",
+        "Demandez ce qui aiderait, et gardez-le confidentiel. De petits aménagements permettent de garder de bonnes personnes."
+      ]
+    },
+    "family": {
+      "title": "Pour la famille",
+      "subtitle": "À la maison",
+      "points": [
+        "Croyez aux symptômes invisibles, même les jours où la personne a l'air parfaitement bien.",
+        "Organisez-vous autour de l'énergie : prévoyez du repos et ne surchargez pas la journée.",
+        "Proposez votre aide, mais laissez-lui son indépendance et ses choix.",
+        "Un projet annulé, c'est la MS qui parle, pas un manque d'attention."
+      ]
+    },
+    "partners": {
+      "title": "Pour les partenaires",
+      "subtitle": "Ensemble",
+      "points": [
+        "Parlez ouvertement des bons et des mauvais jours pour pouvoir vous organiser ensemble.",
+        "Partagez la charge mentale des rendez-vous et des décisions sans tout prendre en main.",
+        "Restez partenaires avant tout : ne laissez pas toute votre relation se réduire à un rôle d'aidant.",
+        "Prenez soin de vous aussi ; le soutien dure plus longtemps quand on ne fonctionne pas à vide."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Si vous ne retenez que {count} choses",
+    "items": [
+      "Croyez-y, même quand vous ne le voyez pas.",
+      "Soyez souple : l'énergie et les symptômes changent.",
+      "Demandez, ne présumez pas : la MS de chacun est différente.",
+      "Une bonne journée n'est pas une guérison, et une mauvaise journée n'est pas la fin."
+    ]
+  },
+  "more": {
+    "heading": "En savoir plus",
+    "intro": "Ressources fiables sur la vie avec la MS :"
+  },
+  "footer": {
+    "disclaimer": "La MS est différente pour chacun. Ceci est une information générale, pas un avis médical. La chose la plus précieuse que vous puissiez faire, c'est de demander à la personne qui vous est chère ce que sa MS représente pour elle.",
+    "printButton": "Imprimer ou enregistrer en PDF",
+    "madeToShare": "Fait pour être partagé",
+    "updated": "Dernière mise à jour : juillet 2026"
+  }
+}

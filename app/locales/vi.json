@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Hiểu về MS: cẩm nang rõ ràng dành cho những người bên cạnh một người đang sống chung với căn bệnh này",
+    "description": "Một lời giải thích rõ ràng, nhẹ nhàng về ý nghĩa của bệnh đa xơ cứng (MS) trong cuộc sống hằng ngày và công việc, viết cho người sử dụng lao động, gia đình và người bạn đời.",
+    "ogTitle": "Hiểu về MS",
+    "ogDescription": "MS có ý nghĩa gì trong cuộc sống hằng ngày và công việc, được giải thích đơn giản cho người sử dụng lao động, gia đình và người bạn đời."
+  },
+  "hero": {
+    "badge": "Đọc trong ± 2 phút · cứ chia sẻ thoải mái",
+    "h1": "Hiểu về MS",
+    "intro": "Một cẩm nang rõ ràng, nhẹ nhàng về ý nghĩa của bệnh đa xơ cứng trong cuộc sống hằng ngày và công việc, viết cho những người bên cạnh một người đang sống chung với căn bệnh này.",
+    "navLabel": "Chuyển đến một mục",
+    "languageSwitcherLabel": "Chọn ngôn ngữ"
+  },
+  "chips": {
+    "employers": "Dành cho người sử dụng lao động",
+    "family": "Dành cho gia đình",
+    "partners": "Dành cho người bạn đời"
+  },
+  "core": {
+    "heading": "Nói ngắn gọn",
+    "body": "MS ảnh hưởng đến hệ thần kinh. Hệ miễn dịch nhầm lẫn làm tổn thương lớp bảo vệ quanh các dây thần kinh, khiến tín hiệu giữa não và cơ thể có thể chậm lại, bị rối loạn, hoặc không đến được đích.",
+    "note": "Đây là căn bệnh kéo dài suốt đời, khác nhau ở mỗi người, và phần lớn không thể nhìn thấy từ bên ngoài."
+  },
+  "metaphorsIntro": {
+    "heading": "Bốn cách hình dung về nó",
+    "sub": "MS dễ hiểu hơn qua những hình ảnh đời thường thay vì thuật ngữ y khoa."
+  },
+  "metaphors": [
+    {
+      "title": "Sợi dây điện bị hỏng",
+      "body": "Dây thần kinh hoạt động như những sợi cáp điện, và mỗi sợi được bọc trong một lớp cách điện gọi là myelin. Ở người mắc MS, lớp cách điện này bị tổn thương. Tín hiệu vẫn cố truyền đi, nhưng nó chậm lại, tản mác hoặc mờ nhạt dần. Đó là lý do một cơ thể trông vẫn ổn vẫn có thể chật vật để làm điều mà não đang yêu cầu."
+    },
+    {
+      "title": "Cục pin cạn nhanh hơn",
+      "body": "Nhiều người mắc MS bắt đầu ngày mới với ít năng lượng hơn, và những việc bình thường lại tiêu tốn nhiều hơn. Tắm rửa, đi lại đến chỗ làm hay một cuộc họp dài có thể dùng hết dự trữ của cả một buổi chiều. Đây không phải là lười biếng hay thiếu động lực; đơn giản là cục pin nhỏ hơn và cạn nhanh hơn."
+    },
+    {
+      "title": "Tảng băng chìm khuất",
+      "body": "Những gì bạn nhìn thấy (một người trông “hoàn toàn bình thường”) chỉ là phần nổi. Bên dưới bề mặt là sự mệt mỏi, đau đớn, tê bì, mờ mắt và sương mù não. Vì những điều này vô hình nên chúng dễ bị xem nhẹ. Tin vào chúng là một trong những điều hỗ trợ ý nghĩa nhất mà bạn có thể làm."
+    },
+    {
+      "title": "Thời tiết thay đổi",
+      "body": "MS không đứng yên. Triệu chứng có thể thay đổi theo từng ngày, thậm chí từng giờ, đôi khi do nóng bức, căng thẳng hay mệt mỏi gây ra, đôi khi chẳng vì lý do rõ ràng nào. Một ngày tốt lành không có nghĩa là bệnh đã hết, và một ngày tệ hại không có nghĩa là bệnh đang nặng thêm. Đó là thời tiết, chứ không phải khí hậu."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Nó có thể có ý nghĩa gì trong cuộc sống hằng ngày",
+    "intro": "Không ai giống ai về sự pha trộn các triệu chứng, và chúng còn thay đổi theo thời gian. Những trải nghiệm thường gặp gồm có:",
+    "items": [
+      {
+        "title": "Mệt mỏi",
+        "desc": "Một sự mệt mỏi nặng nề, chìm nghỉm mà nghỉ ngơi không phải lúc nào cũng khắc phục được."
+      },
+      {
+        "title": "Nhạy cảm với nóng",
+        "desc": "Thời tiết oi bức, tắm nước nóng hay sốt có thể tạm thời làm triệu chứng nặng hơn."
+      },
+      {
+        "title": "Sương mù não",
+        "desc": "Khó tập trung, khó tìm từ ngữ hoặc khó ghi nhớ mọi thứ."
+      },
+      {
+        "title": "Vận động & giữ thăng bằng",
+        "desc": "Yếu cơ, cứng khớp hoặc mất vững, có thể lúc có lúc không."
+      },
+      {
+        "title": "Thị giác & cảm giác",
+        "desc": "Nhìn mờ hoặc nhìn đôi, tê rần, tê bì hoặc đau."
+      },
+      {
+        "title": "Khó đoán trước",
+        "desc": "Triệu chứng thay đổi theo từng ngày, nên đôi khi kế hoạch phải thay đổi."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Điều gì giúp ích, tùy vào bạn là ai",
+    "sub": "Những điều nhỏ nhặt, thiết thực tạo nên khác biệt thực sự.",
+    "employers": {
+      "title": "Dành cho người sử dụng lao động & đồng nghiệp",
+      "subtitle": "Tại nơi làm việc",
+      "points": [
+        "Hãy linh hoạt: giờ giấc uyển chuyển, ngày làm từ xa và một không gian yên tĩnh giúp ích nhiều hơn bạn nghĩ.",
+        "Cho phép nghỉ ngơi và lịch trình dễ đoán; những thay đổi đột ngột và ngày làm dài không nghỉ khiến họ trả giá đắt.",
+        "Đánh giá qua kết quả, chứ không qua số giờ ngồi bàn hay vẻ ngoài của một người.",
+        "Hãy hỏi điều gì sẽ giúp ích, và giữ kín thông tin đó. Những điều chỉnh nhỏ giúp giữ chân người giỏi."
+      ]
+    },
+    "family": {
+      "title": "Dành cho gia đình",
+      "subtitle": "Ở nhà",
+      "points": [
+        "Hãy tin vào những triệu chứng vô hình, ngay cả những ngày người ấy trông hoàn toàn khỏe mạnh.",
+        "Lên kế hoạch quanh năng lượng: sắp xếp thời gian nghỉ ngơi và đừng nhồi nhét quá nhiều vào một ngày.",
+        "Hãy đề nghị giúp đỡ, nhưng để họ giữ được sự tự chủ và quyền lựa chọn của mình.",
+        "Một kế hoạch bị hủy là do MS lên tiếng, chứ không phải vì thiếu quan tâm."
+      ]
+    },
+    "partners": {
+      "title": "Dành cho người bạn đời",
+      "subtitle": "Cùng nhau",
+      "points": [
+        "Hãy trò chuyện cởi mở về những ngày tốt và ngày khó khăn để cả hai cùng lên kế hoạch.",
+        "Chia sẻ gánh nặng tinh thần của những buổi hẹn khám và các quyết định mà không giành làm hết.",
+        "Trước hết hãy là bạn đời của nhau: đừng để cả mối quan hệ chỉ còn là việc chăm sóc.",
+        "Hãy chăm sóc cả bản thân bạn nữa; sự hỗ trợ bền lâu hơn khi bạn không cạn kiệt sức lực."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Nếu bạn nhớ được {count} điều",
+    "items": [
+      "Hãy tin vào nó, ngay cả khi bạn không thấy được.",
+      "Hãy linh hoạt: năng lượng và triệu chứng luôn thay đổi.",
+      "Hãy hỏi, đừng phỏng đoán: MS của mỗi người mỗi khác.",
+      "Một ngày tốt lành không phải là đã khỏi, và một ngày tệ hại không phải là dấu chấm hết."
+    ]
+  },
+  "more": {
+    "heading": "Tìm hiểu thêm",
+    "intro": "Các nguồn thông tin đáng tin cậy về cuộc sống với MS:"
+  },
+  "footer": {
+    "disclaimer": "MS khác nhau ở mỗi người. Đây là thông tin chung, không phải lời khuyên y khoa. Điều quý giá nhất bạn có thể làm là hỏi người bạn quan tâm rằng MS của họ cảm thấy như thế nào.",
+    "printButton": "In hoặc lưu dưới dạng PDF",
+    "madeToShare": "Được tạo ra để chia sẻ",
+    "updated": "Cập nhật lần cuối: Tháng 7 năm 2026"
+  }
+}

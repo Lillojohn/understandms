@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Fahimtar MS: jagora bayyananne ga mutanen da ke kewaye da wanda ke rayuwa da shi",
+    "description": "Bayani bayyananne, mai natsuwa game da abin da cutar sclerosis mai yawa (MS) ke nufi a rayuwar yau da kullum da ta aiki, an rubuta shi don masu ba da aiki, iyali da abokan zama.",
+    "ogTitle": "Fahimtar MS",
+    "ogDescription": "Abin da MS ke nufi a rayuwar yau da kullum da ta aiki, an bayyana a sauƙaƙe ga masu ba da aiki, iyali da abokan zama."
+  },
+  "hero": {
+    "badge": "± minti 2 na karatu · raba shi da yardar rai",
+    "h1": "Fahimtar MS",
+    "intro": "Jagora bayyananne, mai natsuwa game da abin da cutar sclerosis mai yawa ke nufi a rayuwar yau da kullum da ta aiki, an rubuta shi don mutanen da ke kewaye da wanda ke rayuwa da shi.",
+    "navLabel": "Tsallake zuwa wani sashe",
+    "languageSwitcherLabel": "Zaɓi harshe"
+  },
+  "chips": {
+    "employers": "Ga masu ba da aiki",
+    "family": "Ga iyali",
+    "partners": "Ga abokan zama"
+  },
+  "core": {
+    "heading": "A taƙaice",
+    "body": "MS na shafar tsarin jijiyoyi. Tsarin garkuwar jiki na cutar da shimfidar kariya da ke kewaye da jijiyoyi ba da gangan ba, saboda haka sakonni tsakanin ƙwaƙwalwa da jiki na iya raguwa, su ruɗe, ko kuma kada su isa kwata-kwata.",
+    "note": "Yana da tsawon rayuwa, ya bambanta ga kowa da kowa, kuma yawancinsa ba a iya ganinsa daga waje."
+  },
+  "metaphorsIntro": {
+    "heading": "Hanyoyi huɗu na tsara shi a zuciya",
+    "sub": "MS ya fi sauƙi a fahimta ta hanyar misalan yau da kullum fiye da kalmomin likitanci."
+  },
+  "metaphors": [
+    {
+      "title": "Wayar da ta lalace",
+      "body": "Jijiyoyi na aiki kamar igiyoyin lantarki, kuma kowanne an nannaɗe shi da shimfidar ware da ake kira myelin. A cikin MS wannan warewar na lalacewa. Sakon na ci gaba da ƙoƙarin tafiya, amma yana raguwa, ya warwatsu ko ya ɓace. Shi ya sa jikin da ke kama da lafiya zai iya wahalar yin abin da ƙwaƙwalwa ke buƙata."
+    },
+    {
+      "title": "Batir da ke ƙarewa da sauri",
+      "body": "Mutane da yawa masu MS na fara rana da ƙarancin ƙarfi, kuma ayyukan yau da kullum na cin ƙari daga cikinsa. Yin wanka, tafiya aiki ko taro mai tsawo na iya cinye duk ajiyar rana gaba ɗaya. Wannan ba kasala ba ce ko rashin himma; kawai batir ya fi ƙanƙanta kuma yana ƙarewa da sauri."
+    },
+    {
+      "title": "Dutsen ƙanƙara ɓoyayye",
+      "body": "Abin da kake gani (wani mai kama da \"lafiya ƙalau\") kawai ƙwanƙolinsa ne. A ƙarƙashin fuska akwai gajiya, ciwo, rashin ji, hangen nesa mai duhu da ruɗewar ƙwaƙwalwa. Domin waɗannan ba a iya ganinsu, ana yawan raina su. Yarda da su na ɗaya daga cikin abubuwan tallafi mafi girma da za ka iya yi."
+    },
+    {
+      "title": "Yanayin da ke sauyawa",
+      "body": "MS ba ya tsayawa cak. Alamomin na iya bambanta rana zuwa rana, har ma da sa'a zuwa sa'a, wani lokaci sanadin zafi, damuwa ko gajiya, wani lokaci kuma ba tare da wani dalili bayyananne ba. Rana mai kyau ba ta nufin ya tafi ba, kuma rana mara kyau ba ta nufin yana ta ƙaruwa ba. Yanayi ne, ba sauyin yanayi ba."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Abin da zai iya nufi rana zuwa rana",
+    "intro": "Babu mutane biyu masu haɗuwar alamomi iri ɗaya, kuma yana sauyawa da lokaci. Abubuwan da suka zama ruwan dare sun haɗa da:",
+    "items": [
+      {
+        "title": "Gajiya",
+        "desc": "Gajiya mai nauyi, mai nutsarwa da hutu ba koyaushe ke gyara ta ba."
+      },
+      {
+        "title": "Damuwa da zafi",
+        "desc": "Yanayi mai zafi, wanka mai zafi ko zazzaɓi na iya ta'azzara alamomi na ɗan lokaci."
+      },
+      {
+        "title": "Ruɗewar ƙwaƙwalwa",
+        "desc": "Wahalar mai da hankali, samun kalmomi ko tunawa da abubuwa."
+      },
+      {
+        "title": "Motsi da daidaito",
+        "desc": "Rauni, taurin gaɓoɓi ko rashin daidaito da zai iya zuwa ya tafi."
+      },
+      {
+        "title": "Hangen nesa da hankulan jiki",
+        "desc": "Hangen nesa mai duhu ko biyu-biyu, ƙaiƙayi, rashin ji ko ciwo."
+      },
+      {
+        "title": "Rashin tabbas",
+        "desc": "Alamomi na bambanta rana zuwa rana, saboda haka wani lokaci sai a sauya shirye-shirye."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Abin da ke taimakawa, ya danganta da wanene kai",
+    "sub": "Ƙananan abubuwan aiki na kawo babban bambanci.",
+    "employers": {
+      "title": "Ga masu ba da aiki da abokan aiki",
+      "subtitle": "A wurin aiki",
+      "points": [
+        "Ba da sassauci: sa'o'i masu sassauci, kwanakin aiki daga gida da wuri mai natsuwa na taimakawa fiye da yadda kake tsammani.",
+        "Ba da damar hutu da tsara lokaci a tabbatacce; sauye-sauye kwatsam da tsawon kwanaki ba tare da hutu ba na da tsada.",
+        "Yi hukunci bisa sakamako, ba bisa sa'o'i a teburin aiki ko yadda mutum ke kama ba.",
+        "Tambaya abin da zai taimaka, kuma ka kiyaye asirinsa. Ƙananan gyare-gyare na riƙe kyawawan ma'aikata."
+      ]
+    },
+    "family": {
+      "title": "Ga iyali",
+      "subtitle": "A gida",
+      "points": [
+        "Yarda da alamomin da ba a iya gani, ko da a kwanakin da mutum ke kama da lafiya ƙalau.",
+        "Tsara bisa ƙarfi: sanya hutu a shirin kuma kada ka cika rana da ayyuka.",
+        "Ba da taimako, amma ka bar su su riƙe 'yancinsu da zaɓinsu.",
+        "Shirin da aka soke MS ne ke magana, ba rashin kulawa ba."
+      ]
+    },
+    "partners": {
+      "title": "Ga abokan zama",
+      "subtitle": "Tare",
+      "points": [
+        "Yi magana a fili game da kwanaki masu kyau da masu wahala domin ku iya tsarawa tare.",
+        "Raba nauyin tunani na alƙawuran likita da yanke shawara ba tare da karɓe komai ba.",
+        "Ku kasance abokan zama tukuna: kada ku bar dukan dangantakarku ta koma kula da lafiya kawai.",
+        "Ka kula da kanka ma; tallafi na daɗewa idan ba ka gaji sarai ba."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Idan za ka tuna abubuwa {count}",
+    "items": [
+      "Ka yarda da shi, ko da ba ka iya ganinsa.",
+      "Ka kasance mai sassauci: ƙarfi da alamomi na sauyawa.",
+      "Ka tambaya, kada ka ɗauka a rai: MS na kowa ya bambanta.",
+      "Rana mai kyau ba magani ba ce, kuma rana mara kyau ba ƙarshe ba ce."
+    ]
+  },
+  "more": {
+    "heading": "Ƙara koyo",
+    "intro": "Ingantattun hanyoyin bayani game da rayuwa da MS:"
+  },
+  "footer": {
+    "disclaimer": "MS ya bambanta ga kowa da kowa. Wannan bayani ne na gama-gari, ba shawarar likita ba. Abu mafi daraja da za ka iya yi shi ne ka tambayi mutumin da kake kula da shi yadda MS nasa ke ji.",
+    "printButton": "Buga ko ajiye a matsayin PDF",
+    "madeToShare": "An yi shi don a raba",
+    "updated": "Sabuntawa ta ƙarshe: Yuli 2026"
+  }
+}

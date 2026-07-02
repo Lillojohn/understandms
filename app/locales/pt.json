@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Compreender a MS: um guia claro para quem rodeia alguém que vive com ela",
+    "description": "Uma explicação clara e serena do que a esclerose múltipla (MS) significa no dia a dia e no trabalho, escrita para empregadores, familiares e parceiros.",
+    "ogTitle": "Compreender a MS",
+    "ogDescription": "O que a MS significa no dia a dia e no trabalho, explicado de forma simples para empregadores, familiares e parceiros."
+  },
+  "hero": {
+    "badge": "± 2 minutos de leitura · partilhe à vontade",
+    "h1": "Compreender a MS",
+    "intro": "Um guia claro e sereno sobre o que a esclerose múltipla significa no dia a dia e no trabalho, escrito para quem rodeia alguém que vive com ela.",
+    "navLabel": "Saltar para uma secção",
+    "languageSwitcherLabel": "Escolher um idioma"
+  },
+  "chips": {
+    "employers": "Para empregadores",
+    "family": "Para a família",
+    "partners": "Para parceiros"
+  },
+  "core": {
+    "heading": "Em resumo",
+    "body": "A MS afeta o sistema nervoso. O sistema imunitário danifica, por engano, a camada protetora que envolve os nervos, pelo que os sinais entre o cérebro e o corpo podem abrandar, baralhar-se ou não chegar de todo.",
+    "note": "É para toda a vida, é diferente para cada pessoa e, na maior parte, não se vê por fora."
+  },
+  "metaphorsIntro": {
+    "heading": "Quatro formas de a imaginar",
+    "sub": "A MS é mais fácil de compreender através de imagens do dia a dia do que de termos médicos."
+  },
+  "metaphors": [
+    {
+      "title": "O fio danificado",
+      "body": "Os nervos funcionam como cabos elétricos e cada um está envolto numa camada isoladora chamada mielina. Na MS, esse isolamento fica danificado. O sinal continua a tentar seguir caminho, mas abranda, dispersa-se ou esbate-se. É por isso que um corpo que parece bem pode, ainda assim, ter dificuldade em fazer o que o cérebro lhe pede."
+    },
+    {
+      "title": "A bateria que se esgota mais depressa",
+      "body": "Muitas pessoas com MS começam o dia com menos energia, e as tarefas comuns consomem mais dela. Tomar banho, deslocar-se para o trabalho ou uma reunião longa podem esgotar a reserva de uma tarde inteira. Isto não é preguiça nem falta de motivação; a bateria é simplesmente mais pequena e esvazia-se mais depressa."
+    },
+    {
+      "title": "O icebergue escondido",
+      "body": "O que vê (alguém que parece “perfeitamente bem”) é apenas a ponta. Por baixo da superfície estão o cansaço, a dor, a dormência, a visão turva e a névoa mental. Por serem invisíveis, são facilmente subestimados. Acreditar neles é uma das formas de apoio mais importantes que pode dar."
+    },
+    {
+      "title": "O tempo que muda",
+      "body": "A MS não para. Os sintomas podem variar de dia para dia, e até de hora a hora, por vezes desencadeados pelo calor, pelo stress ou pelo cansaço, outras vezes sem razão aparente. Um bom dia não significa que desapareceu, e um mau dia não significa que esteja a piorar. É o tempo que faz, não o clima."
+    }
+  ],
+  "dayToDay": {
+    "heading": "O que pode significar no dia a dia",
+    "intro": "Não há duas pessoas com a mesma combinação, e esta muda ao longo do tempo. Experiências comuns incluem:",
+    "items": [
+      {
+        "title": "Fadiga",
+        "desc": "Um cansaço pesado e avassalador que o descanso nem sempre resolve."
+      },
+      {
+        "title": "Sensibilidade ao calor",
+        "desc": "O tempo quente, um duche quente ou uma febre podem agravar os sintomas por instantes."
+      },
+      {
+        "title": "Névoa mental",
+        "desc": "Dificuldade em concentrar-se, encontrar as palavras ou lembrar-se das coisas."
+      },
+      {
+        "title": "Mobilidade e equilíbrio",
+        "desc": "Fraqueza, rigidez ou instabilidade que podem ir e vir."
+      },
+      {
+        "title": "Visão e sentidos",
+        "desc": "Visão turva ou dupla, formigueiro, dormência ou dor."
+      },
+      {
+        "title": "Imprevisibilidade",
+        "desc": "Os sintomas variam de dia para dia, pelo que os planos às vezes têm de mudar."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "O que ajuda, consoante quem é",
+    "sub": "Pequenos gestos práticos fazem uma diferença real.",
+    "employers": {
+      "title": "Para empregadores e colegas",
+      "subtitle": "No trabalho",
+      "points": [
+        "Ofereça flexibilidade: horários flexíveis, dias em teletrabalho e um espaço tranquilo ajudam mais do que imagina.",
+        "Permita descanso e um horário previsível; mudanças repentinas e dias longos sem pausas custam caro.",
+        "Avalie pelos resultados, não pelas horas à secretária nem pela aparência de cada pessoa.",
+        "Pergunte o que ajudaria e mantenha a confidencialidade. Pequenos ajustes mantêm boas pessoas na equipa."
+      ]
+    },
+    "family": {
+      "title": "Para a família",
+      "subtitle": "Em casa",
+      "points": [
+        "Acredite nos sintomas invisíveis, mesmo nos dias em que a pessoa parece perfeitamente bem.",
+        "Planeie em função da energia: reserve tempo para descansar e não sobrecarregue o dia.",
+        "Ofereça ajuda, mas deixe que mantenham a sua independência e as suas escolhas.",
+        "Um plano cancelado é a MS a falar, não uma falta de afeto."
+      ]
+    },
+    "partners": {
+      "title": "Para parceiros",
+      "subtitle": "Juntos",
+      "points": [
+        "Falem abertamente sobre os dias bons e os dias difíceis, para poderem planear em conjunto.",
+        "Partilhem a carga mental das consultas e das decisões, sem tomar conta de tudo.",
+        "Continuem parceiros acima de tudo: não deixem que toda a relação se transforme em cuidar.",
+        "Cuide também de si; o apoio dura mais quando não está a funcionar no limite."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Se guardar {count} coisas",
+    "items": [
+      "Acredite, mesmo quando não consegue ver.",
+      "Seja flexível: a energia e os sintomas mudam.",
+      "Pergunte, não presuma: a MS de cada pessoa é diferente.",
+      "Um bom dia não é uma cura, e um mau dia não é o fim."
+    ]
+  },
+  "more": {
+    "heading": "Saber mais",
+    "intro": "Recursos fiáveis sobre viver com MS:"
+  },
+  "footer": {
+    "disclaimer": "A MS é diferente para cada pessoa. Esta é uma informação geral, não um conselho médico. O mais valioso que pode fazer é perguntar à pessoa de quem gosta como é a MS dela.",
+    "printButton": "Imprimir ou guardar em PDF",
+    "madeToShare": "Feito para ser partilhado",
+    "updated": "Última atualização: julho de 2026"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "MS verstehen: ein klarer Leitfaden für die Menschen im Umfeld eines Betroffenen",
+    "description": "Eine klare, ruhige Erklärung, was Multiple Sklerose (MS) im Alltag und im Berufsleben bedeutet, geschrieben für Arbeitgeber, Familie und Partner.",
+    "ogTitle": "MS verstehen",
+    "ogDescription": "Was MS im Alltag und im Berufsleben bedeutet, einfach erklärt für Arbeitgeber, Familie und Partner."
+  },
+  "hero": {
+    "badge": "± 2 Minuten Lesezeit · gern weitergeben",
+    "h1": "MS verstehen",
+    "intro": "Ein klarer, ruhiger Leitfaden dazu, was Multiple Sklerose im Alltag und im Berufsleben bedeutet, geschrieben für die Menschen im Umfeld eines Betroffenen.",
+    "navLabel": "Zu einem Abschnitt springen",
+    "languageSwitcherLabel": "Sprache wählen"
+  },
+  "chips": {
+    "employers": "Für Arbeitgeber",
+    "family": "Für Familie",
+    "partners": "Für Partner"
+  },
+  "core": {
+    "heading": "Kurz gesagt",
+    "body": "MS betrifft das Nervensystem. Das Immunsystem schädigt irrtümlich die Schutzschicht um die Nerven, sodass Signale zwischen Gehirn und Körper langsamer werden, durcheinandergeraten oder gar nicht ankommen.",
+    "note": "Sie bleibt ein Leben lang, sie ist bei jedem anders, und das meiste davon ist von außen nicht zu sehen."
+  },
+  "metaphorsIntro": {
+    "heading": "Vier Bilder, um es sich vorzustellen",
+    "sub": "MS lässt sich über Bilder aus dem Alltag leichter verstehen als über medizinische Fachbegriffe."
+  },
+  "metaphors": [
+    {
+      "title": "Das beschädigte Kabel",
+      "body": "Nerven funktionieren wie elektrische Leitungen, und jede ist von einer isolierenden Schicht namens Myelin umhüllt. Bei MS wird diese Isolierung beschädigt. Das Signal versucht noch, sich auf den Weg zu machen, aber es wird langsamer, streut oder verblasst. Deshalb kann ein Körper, der gesund aussieht, trotzdem Mühe haben, das zu tun, was das Gehirn verlangt."
+    },
+    {
+      "title": "Der Akku, der schneller leer ist",
+      "body": "Viele Menschen mit MS starten mit weniger Energie in den Tag, und alltägliche Aufgaben kosten mehr davon. Duschen, der Weg zur Arbeit oder ein langes Meeting können die Reserve eines ganzen Nachmittags aufbrauchen. Das ist keine Faulheit und kein Mangel an Motivation; der Akku ist einfach kleiner und leert sich schneller."
+    },
+    {
+      "title": "Der verborgene Eisberg",
+      "body": "Was Sie sehen (jemand, der „völlig in Ordnung“ wirkt), ist nur die Spitze. Unter der Oberfläche liegen Erschöpfung, Schmerzen, Taubheitsgefühle, verschwommenes Sehen und geistiger Nebel. Weil das unsichtbar ist, wird es leicht unterschätzt. Diesen Beschwerden zu glauben, ist eines der unterstützendsten Dinge, die Sie tun können."
+    },
+    {
+      "title": "Das wechselnde Wetter",
+      "body": "MS steht nicht still. Symptome können von Tag zu Tag schwanken, sogar von Stunde zu Stunde, manchmal ausgelöst durch Hitze, Stress oder Müdigkeit, manchmal ohne erkennbaren Grund. Ein guter Tag bedeutet nicht, dass sie verschwunden ist, und ein schlechter Tag bedeutet nicht, dass es schlimmer wird. Es ist das Wetter, nicht das Klima."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Was es im Alltag bedeuten kann",
+    "intro": "Keine zwei Menschen haben dieselbe Mischung, und sie verändert sich mit der Zeit. Häufige Erfahrungen sind:",
+    "items": [
+      {
+        "title": "Erschöpfung",
+        "desc": "Eine schwere, überwältigende Müdigkeit, gegen die Ruhe nicht immer hilft."
+      },
+      {
+        "title": "Hitzeempfindlichkeit",
+        "desc": "Warmes Wetter, eine heiße Dusche oder Fieber können die Symptome kurzzeitig verschlimmern."
+      },
+      {
+        "title": "Geistiger Nebel",
+        "desc": "Schwierigkeiten, sich zu konzentrieren, Worte zu finden oder sich Dinge zu merken."
+      },
+      {
+        "title": "Beweglichkeit & Gleichgewicht",
+        "desc": "Schwäche, Steifheit oder Unsicherheit, die kommen und gehen können."
+      },
+      {
+        "title": "Sehen & Sinne",
+        "desc": "Verschwommenes oder doppeltes Sehen, Kribbeln, Taubheit oder Schmerzen."
+      },
+      {
+        "title": "Unvorhersehbarkeit",
+        "desc": "Symptome ändern sich von Tag zu Tag, sodass Pläne manchmal angepasst werden müssen."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Was hilft, je nachdem, wer Sie sind",
+    "sub": "Kleine, praktische Dinge machen einen echten Unterschied.",
+    "employers": {
+      "title": "Für Arbeitgeber & Kollegen",
+      "subtitle": "Bei der Arbeit",
+      "points": [
+        "Bieten Sie Flexibilität: flexible Arbeitszeiten, Homeoffice-Tage und ein ruhiger Raum helfen mehr, als Sie vielleicht denken.",
+        "Ermöglichen Sie Pausen und einen planbaren Ablauf; plötzliche Änderungen und lange Tage ohne Pausen fordern ihren Preis.",
+        "Beurteilen Sie nach Ergebnissen, nicht nach Stunden am Schreibtisch oder danach, wie jemand aussieht.",
+        "Fragen Sie, was helfen würde, und behandeln Sie es vertraulich. Kleine Anpassungen halten gute Mitarbeiter an Bord."
+      ]
+    },
+    "family": {
+      "title": "Für die Familie",
+      "subtitle": "Zu Hause",
+      "points": [
+        "Glauben Sie an die unsichtbaren Symptome, auch an Tagen, an denen jemand völlig gesund aussieht.",
+        "Planen Sie rund um die Energie: bauen Sie Ruhepausen ein und packen Sie den Tag nicht zu voll.",
+        "Bieten Sie Hilfe an, lassen Sie der Person aber ihre Selbstständigkeit und ihre Entscheidungen.",
+        "Ein abgesagter Plan ist die MS, die spricht, nicht ein Mangel an Zuneigung."
+      ]
+    },
+    "partners": {
+      "title": "Für Partner",
+      "subtitle": "Gemeinsam",
+      "points": [
+        "Sprechen Sie offen über gute und schwere Tage, damit Sie gemeinsam planen können.",
+        "Teilen Sie die gedankliche Last von Terminen und Entscheidungen, ohne die Kontrolle zu übernehmen.",
+        "Bleiben Sie zuerst Partner: lassen Sie nicht die ganze Beziehung zur Pflege werden.",
+        "Achten Sie auch auf sich selbst; Unterstützung hält länger, wenn Sie nicht auf dem Zahnfleisch gehen."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Wenn Sie sich {count} Dinge merken",
+    "items": [
+      "Glauben Sie es, auch wenn Sie es nicht sehen können.",
+      "Seien Sie flexibel: Energie und Symptome verändern sich.",
+      "Fragen Sie, statt anzunehmen: die MS ist bei jedem anders.",
+      "Ein guter Tag ist keine Heilung, und ein schlechter Tag ist nicht das Ende."
+    ]
+  },
+  "more": {
+    "heading": "Mehr erfahren",
+    "intro": "Verlässliche Anlaufstellen zum Leben mit MS:"
+  },
+  "footer": {
+    "disclaimer": "MS ist bei jedem anders. Dies sind allgemeine Informationen, keine medizinische Beratung. Das Wertvollste, was Sie tun können, ist, die Person, die Ihnen am Herzen liegt, zu fragen, wie sich ihre MS anfühlt.",
+    "printButton": "Drucken oder als PDF speichern",
+    "madeToShare": "Zum Teilen gemacht",
+    "updated": "Zuletzt aktualisiert: Juli 2026"
+  }
+}

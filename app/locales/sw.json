@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Kuelewa MS: mwongozo ulio wazi kwa watu walio karibu na mtu anayeishi nayo",
+    "description": "Maelezo yaliyo wazi na ya utulivu kuhusu maana ya ugonjwa wa sclerosis nyingi (MS) katika maisha ya kila siku na ya kazini, yaliyoandikwa kwa ajili ya waajiri, familia na wenzi.",
+    "ogTitle": "Kuelewa MS",
+    "ogDescription": "Maana ya MS katika maisha ya kila siku na ya kazini, imeelezwa kwa urahisi kwa ajili ya waajiri, familia na wenzi."
+  },
+  "hero": {
+    "badge": "± dakika 2 za kusoma · isambaze bila kizuizi",
+    "h1": "Kuelewa MS",
+    "intro": "Mwongozo ulio wazi na wa utulivu kuhusu maana ya ugonjwa wa sclerosis nyingi katika maisha ya kila siku na ya kazini, umeandikwa kwa ajili ya watu walio karibu na mtu anayeishi nayo.",
+    "navLabel": "Ruka hadi sehemu fulani",
+    "languageSwitcherLabel": "Chagua lugha"
+  },
+  "chips": {
+    "employers": "Kwa waajiri",
+    "family": "Kwa familia",
+    "partners": "Kwa wenzi"
+  },
+  "core": {
+    "heading": "Kwa ufupi",
+    "body": "MS huathiri mfumo wa neva. Mfumo wa kinga huharibu kimakosa tabaka la kinga linalozunguka neva, hivyo ishara kati ya ubongo na mwili zinaweza kupunguza kasi, kuchanganyikana, au zisifike kabisa.",
+    "note": "Ni ya maisha yote, ni tofauti kwa kila mtu, na sehemu kubwa yake haiwezi kuonekana kwa nje."
+  },
+  "metaphorsIntro": {
+    "heading": "Njia nne za kuipata picha",
+    "sub": "MS ni rahisi kueleweka kupitia picha za kila siku kuliko istilahi za kitiba."
+  },
+  "metaphors": [
+    {
+      "title": "Waya ulioharibika",
+      "body": "Neva hufanya kazi kama nyaya za umeme, na kila moja imefunikwa kwa tabaka la kuhami linaloitwa myelin. Katika MS tabaka hilo la kuhami huharibika. Ishara bado hujaribu kusafiri, lakini hupunguza kasi, hutawanyika au hufifia. Ndiyo maana mwili unaoonekana mzima bado unaweza kupata shida kufanya kile ambacho ubongo unauamuru."
+    },
+    {
+      "title": "Betri inayoisha kwa haraka zaidi",
+      "body": "Watu wengi wenye MS huanza siku wakiwa na nguvu chache, na kazi za kawaida hugharimu nguvu zaidi. Kuoga, kusafiri kwenda kazini au mkutano mrefu vinaweza kumaliza akiba ya mchana mzima. Huku si uvivu wala ukosefu wa hamu; betri ni ndogo tu na huisha kwa haraka zaidi."
+    },
+    {
+      "title": "Barafu iliyofichika",
+      "body": "Unachokiona (mtu anayeonekana \"mzima kabisa\") ni ncha tu. Chini ya uso kuna uchovu, maumivu, ganzi, kuona ukungu na ukungu wa akili. Kwa kuwa haya hayaonekani, ni rahisi kuyadharau. Kuyaamini ni jambo mojawapo lenye msaada mkubwa unaweza kufanya."
+    },
+    {
+      "title": "Hali ya hewa inayobadilika",
+      "body": "MS haisimami tuli. Dalili zinaweza kutofautiana siku hadi siku, hata saa hadi saa, wakati mwingine zikichochewa na joto, msongo au uchovu, na wakati mwingine bila sababu iliyo wazi. Siku njema haimaanishi imeisha, na siku mbaya haimaanishi inazidi kuwa mbaya. Ni hali ya hewa, si tabianchi."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Inaweza kumaanisha nini kila siku",
+    "intro": "Hakuna watu wawili wenye mchanganyiko sawa, na hubadilika kadri muda unavyopita. Mambo yanayotokea mara nyingi ni pamoja na:",
+    "items": [
+      {
+        "title": "Uchovu",
+        "desc": "Uchovu mzito, unaozama ambao mapumziko hayauondoi sikuzote."
+      },
+      {
+        "title": "Unyeti wa joto",
+        "desc": "Hali ya hewa ya joto, kuoga maji ya moto au homa vinaweza kuzidisha dalili kwa muda mfupi."
+      },
+      {
+        "title": "Ukungu wa akili",
+        "desc": "Shida ya kuzingatia, kupata maneno au kukumbuka mambo."
+      },
+      {
+        "title": "Utembeaji na usawa",
+        "desc": "Udhaifu, ugumu au kutokuwa imara kunakoweza kuja na kuondoka."
+      },
+      {
+        "title": "Kuona na hisi",
+        "desc": "Kuona ukungu au maradufu, kuwashwa, ganzi au maumivu."
+      },
+      {
+        "title": "Kutotabirika",
+        "desc": "Dalili hutofautiana siku hadi siku, hivyo mipango wakati mwingine hulazimika kubadilika."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Nini husaidia, kutegemea na wewe ni nani",
+    "sub": "Mambo madogo, ya vitendo huleta tofauti ya kweli.",
+    "employers": {
+      "title": "Kwa waajiri na wafanyakazi wenzako",
+      "subtitle": "Kazini",
+      "points": [
+        "Toa unyumbufu: saa nyumbufu, siku za kufanyia kazi mbali na ofisi na eneo tulivu husaidia zaidi ya unavyoweza kutarajia.",
+        "Ruhusu mapumziko na ratiba inayotabirika; mabadiliko ya ghafla na siku ndefu bila mapumziko hugharimu sana.",
+        "Pima kwa matokeo, si kwa saa za kukaa mezani au jinsi mtu anavyoonekana.",
+        "Uliza ni nini kingesaidia, na uweke jambo hilo siri. Marekebisho madogo huwaweka watu wazuri kazini."
+      ]
+    },
+    "family": {
+      "title": "Kwa familia",
+      "subtitle": "Nyumbani",
+      "points": [
+        "Amini dalili zisizoonekana, hata katika siku ambazo mtu anaonekana mzima kabisa.",
+        "Panga kulingana na nguvu: weka mapumziko na usijaze siku kupita kiasi.",
+        "Toa msaada, lakini waache wahifadhi uhuru na machaguo yao.",
+        "Mpango uliofutwa ni MS inayozungumza, si ukosefu wa kujali."
+      ]
+    },
+    "partners": {
+      "title": "Kwa wenzi",
+      "subtitle": "Pamoja",
+      "points": [
+        "Zungumzeni kwa uwazi kuhusu siku njema na siku ngumu ili muweze kupanga pamoja.",
+        "Shirikianeni mzigo wa kiakili wa miadi na maamuzi bila kuchukua yote.",
+        "Bakini wenzi kwanza: msiache uhusiano wenu wote uwe wa kutunza tu.",
+        "Jitunze wewe pia; msaada hudumu muda mrefu zaidi wakati hukimbii ukiwa umechoka kabisa."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Ukikumbuka mambo {count}",
+    "items": [
+      "Iamini, hata usipoiona.",
+      "Kuwa mnyumbufu: nguvu na dalili hubadilika.",
+      "Uliza, usifikirie tu: MS ya kila mtu ni tofauti.",
+      "Siku njema si tiba, na siku mbaya si mwisho."
+    ]
+  },
+  "more": {
+    "heading": "Jifunze zaidi",
+    "intro": "Vyanzo vya kuaminika kuhusu kuishi na MS:"
+  },
+  "footer": {
+    "disclaimer": "MS ni tofauti kwa kila mtu. Haya ni maelezo ya jumla, si ushauri wa kitiba. Jambo lenye thamani zaidi unaloweza kufanya ni kumuuliza mtu unayemjali jinsi MS yake inavyohisiwa.",
+    "printButton": "Chapisha au hifadhi kama PDF",
+    "madeToShare": "Imetengenezwa ili kusambazwa",
+    "updated": "Ilisasishwa mwisho: Julai 2026"
+  }
+}

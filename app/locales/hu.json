@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Az MS megértése: világos útmutató azoknak, akik MS-sel élő ember mellett állnak",
+    "description": "Világos, nyugodt magyarázat arról, mit jelent a sclerosis multiplex (MS) a mindennapokban és a munkában, munkáltatóknak, családtagoknak és partnereknek.",
+    "ogTitle": "Az MS megértése",
+    "ogDescription": "Mit jelent az MS a mindennapokban és a munkában, egyszerűen elmagyarázva munkáltatóknak, családtagoknak és partnereknek."
+  },
+  "hero": {
+    "badge": "± 2 perc olvasás · nyugodtan oszd meg",
+    "h1": "Az MS megértése",
+    "intro": "Világos, nyugodt útmutató arról, mit jelent a sclerosis multiplex a mindennapokban és a munkában, azoknak, akik egy MS-sel élő ember mellett állnak.",
+    "navLabel": "Ugrás egy szakaszra",
+    "languageSwitcherLabel": "Válassz nyelvet"
+  },
+  "chips": {
+    "employers": "Munkáltatóknak",
+    "family": "Családtagoknak",
+    "partners": "Partnereknek"
+  },
+  "core": {
+    "heading": "Röviden",
+    "body": "Az MS az idegrendszert érinti. Az immunrendszer tévedésből megtámadja az idegeket védő réteget, ezért az agy és a test közötti jelek lelassulhatnak, összekuszálódhatnak, vagy egyáltalán nem érkeznek meg.",
+    "note": "Egész életen át tart, mindenkinél más, és a nagy része kívülről nem látszik."
+  },
+  "metaphorsIntro": {
+    "heading": "Négy kép, ami segít elképzelni",
+    "sub": "Az MS-t könnyebb hétköznapi képeken keresztül megérteni, mint orvosi kifejezésekkel."
+  },
+  "metaphors": [
+    {
+      "title": "A sérült vezeték",
+      "body": "Az idegek úgy működnek, mint az elektromos kábelek, és mindegyiket egy szigetelő réteg, a mielin veszi körül. Az MS-ben ez a szigetelés megsérül. A jel még megpróbál eljutni a célba, de lelassul, szétszóródik vagy elhalványul. Ezért fordulhat elő, hogy egy kívülről egészségesnek tűnő test mégis nehezen teszi meg azt, amit az agy kér tőle."
+    },
+    {
+      "title": "Az akkumulátor, ami gyorsabban lemerül",
+      "body": "Sok MS-sel élő ember kevesebb energiával kezdi a napot, és a hétköznapi feladatok is többe kerülnek belőle. Egy zuhanyzás, az ingázás vagy egy hosszú megbeszélés felemésztheti egy egész délután tartalékát. Ez nem lustaság és nem a motiváció hiánya; az akkumulátor egyszerűen kisebb, és gyorsabban lemerül."
+    },
+    {
+      "title": "A rejtett jéghegy",
+      "body": "Amit látsz (valaki, aki „teljesen jól néz ki”), az csak a csúcs. A felszín alatt ott van a fáradtság, a fájdalom, a zsibbadás, a homályos látás és az agyköd. Mivel ezek láthatatlanok, könnyű alábecsülni őket. Ha hiszel bennük, azzal az egyik legnagyobb támogatást adhatod."
+    },
+    {
+      "title": "A változó időjárás",
+      "body": "Az MS nem áll meg egy helyben. A tünetek napról napra, sőt óráról órára változhatnak. Néha a meleg, a stressz vagy a fáradtság váltja ki őket, néha látható ok nélkül jelentkeznek. Egy jó nap nem jelenti azt, hogy elmúlt, egy rossz nap pedig nem jelenti azt, hogy rosszabbodik. Ez az időjárás, nem az éghajlat."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Mit jelenthet a mindennapokban",
+    "intro": "Nincs két egyforma eset, és idővel változik is. Gyakori tapasztalatok:",
+    "items": [
+      {
+        "title": "Fáradtság",
+        "desc": "Nehéz, elárasztó kimerültség, amin a pihenés nem mindig segít."
+      },
+      {
+        "title": "Hőérzékenység",
+        "desc": "A meleg idő, egy forró zuhany vagy a láz átmenetileg felerősítheti a tüneteket."
+      },
+      {
+        "title": "Agyköd",
+        "desc": "Nehézség a koncentrálásban, a szavak megtalálásában vagy az emlékezésben."
+      },
+      {
+        "title": "Mozgás és egyensúly",
+        "desc": "Gyengeség, merevség vagy bizonytalanság, ami jönni-menni tud."
+      },
+      {
+        "title": "Látás és érzékelés",
+        "desc": "Homályos vagy kettős látás, bizsergés, zsibbadás vagy fájdalom."
+      },
+      {
+        "title": "Kiszámíthatatlanság",
+        "desc": "A tünetek napról napra változnak, ezért a terveket néha módosítani kell."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Mi segít, attól függően, ki vagy",
+    "sub": "Az apró, gyakorlati dolgok tényleg számítanak.",
+    "employers": {
+      "title": "Munkáltatóknak és kollégáknak",
+      "subtitle": "A munkahelyen",
+      "points": [
+        "Adj rugalmasságot: a rugalmas munkaidő, az otthoni munkanapok és egy csendes tér többet segít, mint gondolnád.",
+        "Tedd lehetővé a pihenést és a kiszámítható beosztást; a hirtelen változások és a szünet nélküli hosszú napok sokba kerülnek.",
+        "Az eredmény alapján ítélj, ne az íróasztalnál töltött órák vagy a külső alapján.",
+        "Kérdezd meg, mi segítene, és kezeld bizalmasan. Az apró módosítások megtartják a jó munkatársakat."
+      ]
+    },
+    "family": {
+      "title": "Családtagoknak",
+      "subtitle": "Otthon",
+      "points": [
+        "Higgy a láthatatlan tüneteknek akkor is, amikor valaki teljesen egészségesnek tűnik.",
+        "Az energiához igazítsd a terveket: iktass be pihenőt, és ne zsúfold tele a napot.",
+        "Ajánld fel a segítséget, de hagyd meg a másiknak az önállóságát és a döntéseit.",
+        "Egy lemondott program az MS-ről szól, nem a törődés hiányáról."
+      ]
+    },
+    "partners": {
+      "title": "Partnereknek",
+      "subtitle": "Együtt",
+      "points": [
+        "Beszéljetek nyíltan a jó és a nehéz napokról, hogy együtt tudjatok tervezni.",
+        "Osztozz az időpontok és döntések mentális terhében anélkül, hogy átvennéd az irányítást.",
+        "Maradjatok elsősorban partnerek: ne hagyd, hogy az egész kapcsolatotok gondoskodássá váljon.",
+        "Vigyázz magadra is; a támogatás tovább tart, ha te sem vagy teljesen kimerülve."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Ha {count} dologra emlékszel",
+    "items": [
+      "Higgy benne akkor is, ha nem látod.",
+      "Légy rugalmas: az energia és a tünetek változnak.",
+      "Kérdezz, ne feltételezz: mindenkinél más az MS.",
+      "Egy jó nap nem gyógyulás, egy rossz nap pedig nem a vég."
+    ]
+  },
+  "more": {
+    "heading": "Tudj meg többet",
+    "intro": "Megbízható források az MS-sel való életről:"
+  },
+  "footer": {
+    "disclaimer": "Az MS mindenkinél más. Ez általános tájékoztatás, nem orvosi tanács. A legértékesebb, amit tehetsz, hogy megkérdezed a szeretett személytől, milyen érzés számára az MS.",
+    "printButton": "Nyomtatás vagy mentés PDF-ként",
+    "madeToShare": "Megosztásra készült",
+    "updated": "Utoljára frissítve: 2026. július"
+  }
+}

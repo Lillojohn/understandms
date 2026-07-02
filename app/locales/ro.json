@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Să înțelegem MS: un ghid clar pentru cei din jurul unei persoane care trăiește cu această boală",
+    "description": "O explicație clară și liniștită despre ce înseamnă scleroza multiplă (MS) în viața de zi cu zi și la locul de muncă, scrisă pentru angajatori, familie și parteneri.",
+    "ogTitle": "Să înțelegem MS",
+    "ogDescription": "Ce înseamnă MS în viața de zi cu zi și la locul de muncă, explicat simplu pentru angajatori, familie și parteneri."
+  },
+  "hero": {
+    "badge": "± 2 minute de citit · distribuie liber",
+    "h1": "Să înțelegem MS",
+    "intro": "Un ghid clar și liniștit despre ce înseamnă scleroza multiplă în viața de zi cu zi și la locul de muncă, scris pentru cei din jurul unei persoane care trăiește cu ea.",
+    "navLabel": "Sari la o secțiune",
+    "languageSwitcherLabel": "Alege o limbă"
+  },
+  "chips": {
+    "employers": "Pentru angajatori",
+    "family": "Pentru familie",
+    "partners": "Pentru parteneri"
+  },
+  "core": {
+    "heading": "Pe scurt",
+    "body": "MS afectează sistemul nervos. Sistemul imunitar deteriorează din greșeală stratul protector din jurul nervilor, așa că semnalele dintre creier și corp pot încetini, se pot amesteca sau pot să nu ajungă deloc.",
+    "note": "Este o boală de-o viață, se manifestă diferit la fiecare persoană și, în cea mai mare parte, nu se vede din exterior."
+  },
+  "metaphorsIntro": {
+    "heading": "Patru moduri de a ți-o imagina",
+    "sub": "MS se înțelege mai ușor prin imagini din viața de zi cu zi decât prin termeni medicali."
+  },
+  "metaphors": [
+    {
+      "title": "Firul deteriorat",
+      "body": "Nervii funcționează ca niște cabluri electrice, iar fiecare este învelit într-un strat izolator numit mielină. În MS, această izolație se deteriorează. Semnalul încearcă în continuare să circule, dar încetinește, se împrăștie sau se stinge. De aceea un corp care arată bine se poate chinui totuși să facă ceea ce îi cere creierul."
+    },
+    {
+      "title": "Bateria care se descarcă mai repede",
+      "body": "Multe persoane cu MS încep ziua cu mai puțină energie, iar sarcinile obișnuite le consumă mai mult din ea. Un duș, drumul până la muncă sau o ședință lungă pot epuiza rezerva unei după-amiezi întregi. Nu este lene sau lipsă de motivație; bateria este pur și simplu mai mică și se golește mai repede."
+    },
+    {
+      "title": "Aisbergul ascuns",
+      "body": "Ce vezi (cineva care pare „perfect în regulă”) este doar vârful. Sub suprafață se află oboseala, durerea, amorțeala, vederea încețoșată și ceața mentală. Fiind invizibile, sunt ușor de subestimat. Să le crezi este unul dintre cele mai încurajatoare lucruri pe care le poți face."
+    },
+    {
+      "title": "Vremea care se schimbă",
+      "body": "MS nu stă pe loc. Simptomele pot varia de la o zi la alta, chiar și de la o oră la alta, uneori declanșate de căldură, stres sau oboseală, alteori fără un motiv clar. O zi bună nu înseamnă că a dispărut, iar o zi grea nu înseamnă că se agravează. Este vremea, nu clima."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Ce poate însemna în fiecare zi",
+    "intro": "Nu există două persoane cu aceeași combinație, iar aceasta se schimbă în timp. Experiențe frecvente includ:",
+    "items": [
+      {
+        "title": "Oboseala",
+        "desc": "O oboseală grea, copleșitoare, pe care odihna nu o alină întotdeauna."
+      },
+      {
+        "title": "Sensibilitatea la căldură",
+        "desc": "Vremea caldă, un duș fierbinte sau febra pot înrăutăți temporar simptomele."
+      },
+      {
+        "title": "Ceața mentală",
+        "desc": "Dificultăți de concentrare, de a găsi cuvintele sau de a-și aminti lucruri."
+      },
+      {
+        "title": "Mobilitate și echilibru",
+        "desc": "Slăbiciune, rigiditate sau nesiguranță care pot apărea și dispărea."
+      },
+      {
+        "title": "Vedere și simțuri",
+        "desc": "Vedere încețoșată sau dublă, furnicături, amorțeală sau durere."
+      },
+      {
+        "title": "Imprevizibilitatea",
+        "desc": "Simptomele variază de la o zi la alta, așa că planurile trebuie uneori schimbate."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Ce ajută, în funcție de cine ești",
+    "sub": "Lucrurile mici și practice fac o diferență reală.",
+    "employers": {
+      "title": "Pentru angajatori și colegi",
+      "subtitle": "La muncă",
+      "points": [
+        "Oferă flexibilitate: programul flexibil, zilele de lucru de acasă și un spațiu liniștit ajută mai mult decât te-ai aștepta.",
+        "Permite odihna și un program previzibil; schimbările bruște și zilele lungi fără pauze costă scump.",
+        "Judecă după rezultate, nu după orele petrecute la birou sau după cum arată cineva.",
+        "Întreabă ce ar ajuta și păstrează confidențialitatea. Micile ajustări îi țin pe oamenii buni alături de tine."
+      ]
+    },
+    "family": {
+      "title": "Pentru familie",
+      "subtitle": "Acasă",
+      "points": [
+        "Crede simptomele invizibile, chiar și în zilele în care cineva pare perfect sănătos.",
+        "Planifică în funcție de energie: include momente de odihnă și nu încărca ziua peste măsură.",
+        "Oferă ajutor, dar lasă-i independența și libertatea de a alege.",
+        "Un plan anulat este vina MS-ului, nu lipsa de grijă."
+      ]
+    },
+    "partners": {
+      "title": "Pentru parteneri",
+      "subtitle": "Împreună",
+      "points": [
+        "Vorbiți deschis despre zilele bune și cele grele, ca să puteți face planuri împreună.",
+        "Împărțiți povara mentală a programărilor și a deciziilor, fără a prelua totul.",
+        "Rămâneți parteneri în primul rând: nu lăsa întreaga relație să devină îngrijire.",
+        "Ai grijă și de tine; sprijinul durează mai mult atunci când nu ești complet epuizat."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Dacă reții {count} lucruri",
+    "items": [
+      "Crede-o, chiar și atunci când nu o poți vedea.",
+      "Fii flexibil: energia și simptomele se schimbă.",
+      "Întreabă, nu presupune: MS-ul fiecăruia este diferit.",
+      "O zi bună nu este o vindecare, iar o zi grea nu este sfârșitul."
+    ]
+  },
+  "more": {
+    "heading": "Află mai multe",
+    "intro": "Resurse de încredere despre viața cu MS:"
+  },
+  "footer": {
+    "disclaimer": "MS se manifestă diferit la fiecare persoană. Acestea sunt informații generale, nu sfaturi medicale. Cel mai valoros lucru pe care îl poți face este să întrebi persoana la care ții cum resimte ea MS-ul.",
+    "printButton": "Printează sau salvează ca PDF",
+    "madeToShare": "Creat pentru a fi distribuit",
+    "updated": "Ultima actualizare: iulie 2026"
+  }
+}

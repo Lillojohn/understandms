@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Forstå MS: en tydelig guide for de rundt en som lever med det",
+    "description": "En tydelig og rolig forklaring på hva multippel sklerose (MS) betyr i hverdagen og i arbeidslivet, skrevet for arbeidsgivere, familie og partnere.",
+    "ogTitle": "Forstå MS",
+    "ogDescription": "Hva MS betyr i hverdagen og i arbeidslivet, forklart enkelt for arbeidsgivere, familie og partnere."
+  },
+  "hero": {
+    "badge": "± 2 minutters lesing · del den gjerne",
+    "h1": "Forstå MS",
+    "intro": "En tydelig og rolig guide til hva multippel sklerose betyr i hverdagen og i arbeidslivet, skrevet for de rundt en som lever med det.",
+    "navLabel": "Hopp til en del",
+    "languageSwitcherLabel": "Velg språk"
+  },
+  "chips": {
+    "employers": "For arbeidsgivere",
+    "family": "For familie",
+    "partners": "For partnere"
+  },
+  "core": {
+    "heading": "Kort fortalt",
+    "body": "MS påvirker nervesystemet. Immunforsvaret skader ved en feil det beskyttende laget rundt nervene, slik at signalene mellom hjernen og kroppen kan bli tregere, komme i uorden eller ikke komme fram i det hele tatt.",
+    "note": "Det er livslangt, det er forskjellig fra person til person, og det meste kan ikke ses utenfra."
+  },
+  "metaphorsIntro": {
+    "heading": "Fire måter å se det for seg på",
+    "sub": "MS er lettere å forstå gjennom hverdagslige bilder enn gjennom medisinske ord."
+  },
+  "metaphors": [
+    {
+      "title": "Den skadde ledningen",
+      "body": "Nerver fungerer som elektriske kabler, og hver enkelt er pakket inn i et isolerende lag som kalles myelin. Ved MS blir denne isolasjonen skadet. Signalet forsøker fortsatt å komme fram, men det blir tregere, sprer seg eller falmer. Derfor kan en kropp som ser helt fin ut likevel streve med å gjøre det hjernen ber om."
+    },
+    {
+      "title": "Batteriet som tømmes raskere",
+      "body": "Mange med MS starter dagen med mindre energi, og vanlige gjøremål koster mer av den. En dusj, reisen til jobb eller et langt møte kan bruke opp hele ettermiddagens reserve. Dette handler ikke om latskap eller manglende vilje; batteriet er rett og slett mindre og tømmes fortere."
+    },
+    {
+      "title": "Isfjellet under overflaten",
+      "body": "Det du ser (noen som virker «helt fine») er bare toppen. Under overflaten ligger utmattelse, smerte, nummenhet, tåkesyn og hjernetåke. Fordi dette er usynlig, blir det lett undervurdert. Å tro på det er noe av det mest støttende du kan gjøre."
+    },
+    {
+      "title": "Været som skifter",
+      "body": "MS står ikke stille. Symptomene kan variere fra dag til dag, ja fra time til time, noen ganger utløst av varme, stress eller trøtthet, andre ganger uten noen tydelig grunn. En god dag betyr ikke at det er borte, og en dårlig dag betyr ikke at det blir verre. Det er været, ikke klimaet."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Hva det kan bety i hverdagen",
+    "intro": "Ingen to personer har samme sammensetning, og den endrer seg over tid. Vanlige erfaringer er blant annet:",
+    "items": [
+      {
+        "title": "Utmattelse",
+        "desc": "En tung, altoppslukende trøtthet som hvile ikke alltid kurerer."
+      },
+      {
+        "title": "Varmefølsomhet",
+        "desc": "Varmt vær, en varm dusj eller feber kan for en kort stund forverre symptomene."
+      },
+      {
+        "title": "Hjernetåke",
+        "desc": "Vansker med å konsentrere seg, finne ord eller huske ting."
+      },
+      {
+        "title": "Bevegelse og balanse",
+        "desc": "Svakhet, stivhet eller ustøhet som kan komme og gå."
+      },
+      {
+        "title": "Syn og sanser",
+        "desc": "Tåkesyn eller dobbeltsyn, prikking, nummenhet eller smerte."
+      },
+      {
+        "title": "Uforutsigbarhet",
+        "desc": "Symptomene varierer fra dag til dag, så planer må noen ganger endres."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Hva som hjelper, avhengig av hvem du er",
+    "sub": "Små, praktiske ting utgjør en reell forskjell.",
+    "employers": {
+      "title": "For arbeidsgivere og kolleger",
+      "subtitle": "På jobben",
+      "points": [
+        "Tilby fleksibilitet: fleksible arbeidstider, hjemmekontordager og et rolig sted hjelper mer enn du kanskje tror.",
+        "Legg til rette for hvile og forutsigbar planlegging; plutselige endringer og lange dager uten pauser koster mye.",
+        "Vurder ut fra resultater, ikke ut fra timer ved pulten eller hvordan noen ser ut.",
+        "Spør hva som ville hjulpet, og hold det fortrolig. Små tilpasninger holder dyktige folk om bord."
+      ]
+    },
+    "family": {
+      "title": "For familie",
+      "subtitle": "Hjemme",
+      "points": [
+        "Tro på de usynlige symptomene, også på dager der noen ser helt friske ut.",
+        "Planlegg ut fra energi: legg inn hvile og fyll ikke dagen for full.",
+        "Tilby hjelp, men la dem beholde sin selvstendighet og sine valg.",
+        "En avlyst avtale er MS-en som snakker, ikke mangel på omtanke."
+      ]
+    },
+    "partners": {
+      "title": "For partnere",
+      "subtitle": "Sammen",
+      "points": [
+        "Snakk åpent om gode og tunge dager, så dere kan planlegge sammen.",
+        "Del den mentale byrden med avtaler og avgjørelser uten å ta over.",
+        "Vær partnere først: ikke la hele forholdet handle om omsorg.",
+        "Ta vare på deg selv også; støtten varer lenger når du ikke går på tom tank."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Hvis du husker {count} ting",
+    "items": [
+      "Tro på det, selv når du ikke kan se det.",
+      "Vær fleksibel: energi og symptomer endrer seg.",
+      "Spør, ikke anta: MS er forskjellig for alle.",
+      "En god dag er ingen kur, og en dårlig dag er ikke slutten."
+    ]
+  },
+  "more": {
+    "heading": "Lær mer",
+    "intro": "Pålitelige kilder om livet med MS:"
+  },
+  "footer": {
+    "disclaimer": "MS er forskjellig for alle. Dette er generell informasjon, ikke medisinske råd. Det mest verdifulle du kan gjøre, er å spørre den du bryr deg om hvordan MS-en kjennes for dem.",
+    "printButton": "Skriv ut eller lagre som PDF",
+    "madeToShare": "Laget for å deles",
+    "updated": "Sist oppdatert: juli 2026"
+  }
+}

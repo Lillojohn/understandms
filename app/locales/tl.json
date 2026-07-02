@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Pag-unawa sa MS: isang malinaw na gabay para sa mga taong nakapaligid sa isang may MS",
+    "description": "Isang malinaw at kalmadong paliwanag kung ano ang ibig sabihin ng multiple sclerosis (MS) sa pang-araw-araw na buhay at sa trabaho, isinulat para sa mga employer, pamilya at partner.",
+    "ogTitle": "Pag-unawa sa MS",
+    "ogDescription": "Kung ano ang ibig sabihin ng MS sa pang-araw-araw na buhay at sa trabaho, ipinaliwanag nang simple para sa mga employer, pamilya at partner."
+  },
+  "hero": {
+    "badge": "± 2 minutong babasahin · malayang ibahagi",
+    "h1": "Pag-unawa sa MS",
+    "intro": "Isang malinaw at kalmadong gabay kung ano ang ibig sabihin ng multiple sclerosis sa pang-araw-araw na buhay at sa trabaho, isinulat para sa mga taong nakapaligid sa isang may MS.",
+    "navLabel": "Tumalon sa isang seksyon",
+    "languageSwitcherLabel": "Pumili ng wika"
+  },
+  "chips": {
+    "employers": "Para sa mga employer",
+    "family": "Para sa pamilya",
+    "partners": "Para sa mga partner"
+  },
+  "core": {
+    "heading": "Sa madaling salita",
+    "body": "Naaapektuhan ng MS ang nervous system. Nagkakamaling sinisira ng immune system ang proteksyong balot sa paligid ng mga nerbiyo, kaya maaaring bumagal, magulo, o hindi na makarating ang mga senyales sa pagitan ng utak at ng katawan.",
+    "note": "Habambuhay ito, iba-iba sa bawat tao, at karamihan dito ay hindi nakikita mula sa labas."
+  },
+  "metaphorsIntro": {
+    "heading": "Apat na paraan para maisip ito",
+    "sub": "Mas madaling maunawaan ang MS sa pamamagitan ng pang-araw-araw na mga larawan kaysa sa mga terminong medikal."
+  },
+  "metaphors": [
+    {
+      "title": "Ang sirang kawad",
+      "body": "Gumagana ang mga nerbiyo tulad ng mga kableng elektrikal, at bawat isa ay nakabalot sa isang saplot na nagbubukod ng koryente na tinatawag na myelin. Sa MS, nasisira ang saplot na ito. Sinusubukan pa ring maglakbay ng senyales, ngunit bumabagal, kumakalat o kumukupas ito. Kaya ang isang katawan na mukhang ayos ay maaari pa ring mahirapang gawin ang inuutos ng utak."
+    },
+    {
+      "title": "Ang baterya na mas mabilis maubos",
+      "body": "Maraming taong may MS ang nagsisimula ng araw na kulang na sa enerhiya, at mas malaki ang naaubos ng mga ordinaryong gawain. Ang pagliligo, pagbiyahe papuntang trabaho o isang mahabang pulong ay maaaring maubos ang buong reserba para sa isang hapon. Hindi ito katamaran o kawalan ng motibasyon; simpleng mas maliit lang ang baterya at mas mabilis maubos."
+    },
+    {
+      "title": "Ang nakatagong yelo sa dagat",
+      "body": "Ang nakikita mo (isang taong mukhang “ayos na ayos”) ay dulo lamang. Sa ilalim ng ibabaw ay nakatago ang pagkapagod, sakit, pamamanhid, malabong paningin at brain fog. Dahil hindi nakikita ang mga ito, madali silang mamaliitin. Ang paniwalaan ang mga ito ay isa sa pinakamakabuluhang bagay na magagawa mo."
+    },
+    {
+      "title": "Ang nagbabagong panahon",
+      "body": "Hindi nakatigil ang MS. Maaaring mag-iba ang mga sintomas sa bawat araw, kahit oras-oras, minsan dulot ng init, stress o pagkapagod, minsan nang walang malinaw na dahilan. Ang isang magandang araw ay hindi nangangahulugang wala na ito, at ang isang masamang araw ay hindi nangangahulugang lumalala na. Ito ang panahon, hindi ang klima."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Kung ano ang maaari nitong ibig sabihin araw-araw",
+    "intro": "Walang dalawang taong may parehong halo ng mga sintomas, at nagbabago ito sa paglipas ng panahon. Kabilang sa mga karaniwang karanasan ay:",
+    "items": [
+      {
+        "title": "Pagkapagod",
+        "desc": "Isang mabigat, nakakalunod na pagod na hindi laging naaayos ng pahinga."
+      },
+      {
+        "title": "Sensitibo sa init",
+        "desc": "Ang mainit na panahon, mainit na shower o lagnat ay maaaring pansamantalang magpalala ng mga sintomas."
+      },
+      {
+        "title": "Brain fog",
+        "desc": "Hirap sa pagtutok, paghahanap ng mga salita o pag-alala ng mga bagay."
+      },
+      {
+        "title": "Paggalaw at balanse",
+        "desc": "Panghihina, panunigas o pagkawala ng balanse na maaaring dumating at umalis."
+      },
+      {
+        "title": "Paningin at pandama",
+        "desc": "Malabo o doble ang paningin, pangingilo, pamamanhid o sakit."
+      },
+      {
+        "title": "Hindi mahulaan",
+        "desc": "Nagbabago ang mga sintomas sa bawat araw, kaya kung minsan ay kailangang baguhin ang mga plano."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Kung ano ang nakakatulong, depende sa kung sino ka",
+    "sub": "Malaki ang naidudulot ng maliliit at praktikal na mga bagay.",
+    "employers": {
+      "title": "Para sa mga employer at katrabaho",
+      "subtitle": "Sa trabaho",
+      "points": [
+        "Mag-alok ng flexibility: ang flexible na oras, mga araw na malayuang pagtatrabaho at isang tahimik na espasyo ay mas nakakatulong kaysa sa inaakala mo.",
+        "Payagan ang pahinga at mahuhulaang iskedyul; magastos ang biglaang pagbabago at mahahabang araw na walang pahinga.",
+        "Husgahan ayon sa resulta, hindi sa oras sa mesa o sa itsura ng isang tao.",
+        "Itanong kung ano ang makakatulong, at panatilihin itong kumpidensyal. Ang maliliit na pagbabago ay nagpapanatili ng mahuhusay na tao."
+      ]
+    },
+    "family": {
+      "title": "Para sa pamilya",
+      "subtitle": "Sa bahay",
+      "points": [
+        "Paniwalaan ang mga hindi nakikitang sintomas, kahit sa mga araw na mukhang ayos na ayos ang isang tao.",
+        "Magplano ayon sa enerhiya: maglaan ng pahinga at huwag punuin nang labis ang araw.",
+        "Mag-alok ng tulong, ngunit hayaan silang panatilihin ang kanilang kalayaan at pagpili.",
+        "Ang isang kanselang plano ay ang MS na nagsasalita, hindi kawalan ng pagmamalasakit."
+      ]
+    },
+    "partners": {
+      "title": "Para sa mga partner",
+      "subtitle": "Magkasama",
+      "points": [
+        "Mag-usap nang bukas tungkol sa magaganda at mahihirap na araw para makapagplano kayong magkasama.",
+        "Ibahagi ang mental na pasanin ng mga appointment at desisyon nang hindi inaagaw ang lahat.",
+        "Manatiling partner muna: huwag hayaang maging pag-aaruga na lang ang buong relasyon ninyo.",
+        "Alagaan din ang sarili; mas tumatagal ang suporta kapag hindi ka rin ubos na ubos."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Kung {count} bagay lang ang matatandaan mo",
+    "items": [
+      "Paniwalaan ito, kahit hindi mo ito nakikita.",
+      "Maging flexible: nagbabago ang enerhiya at mga sintomas.",
+      "Magtanong, huwag basta manghula: iba-iba ang MS ng bawat isa.",
+      "Ang isang magandang araw ay hindi lunas, at ang isang masamang araw ay hindi ang katapusan."
+    ]
+  },
+  "more": {
+    "heading": "Matuto pa",
+    "intro": "Mga mapagkakatiwalaang sanggunian tungkol sa pamumuhay nang may MS:"
+  },
+  "footer": {
+    "disclaimer": "Iba-iba ang MS sa bawat tao. Pangkalahatang impormasyon lang ito, hindi payong medikal. Ang pinakamahalagang bagay na magagawa mo ay tanungin ang taong iyong minamahal kung ano ang pakiramdam ng kanyang MS.",
+    "printButton": "I-print o i-save bilang PDF",
+    "madeToShare": "Ginawa para ibahagi",
+    "updated": "Huling na-update: Hulyo 2026"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Capire la MS: una guida chiara per chi sta accanto a una persona che ci convive",
+    "description": "Una spiegazione chiara e serena di cosa significhi la sclerosi multipla (MS) nella vita quotidiana e sul lavoro, pensata per datori di lavoro, familiari e partner.",
+    "ogTitle": "Capire la MS",
+    "ogDescription": "Cosa significa la MS nella vita di tutti i giorni e sul lavoro, spiegato in modo semplice per datori di lavoro, familiari e partner."
+  },
+  "hero": {
+    "badge": "± 2 minuti di lettura · condividila liberamente",
+    "h1": "Capire la MS",
+    "intro": "Una guida chiara e serena su cosa significhi la sclerosi multipla nella vita quotidiana e sul lavoro, pensata per chi sta accanto a una persona che ci convive.",
+    "navLabel": "Vai a una sezione",
+    "languageSwitcherLabel": "Scegli una lingua"
+  },
+  "chips": {
+    "employers": "Per i datori di lavoro",
+    "family": "Per i familiari",
+    "partners": "Per i partner"
+  },
+  "core": {
+    "heading": "In breve",
+    "body": "La MS colpisce il sistema nervoso. Il sistema immunitario danneggia per errore lo strato protettivo che riveste i nervi, così i segnali tra il cervello e il corpo possono rallentare, confondersi o non arrivare affatto.",
+    "note": "È una condizione che dura tutta la vita, si presenta in modo diverso in ognuno e, per la maggior parte, non si vede da fuori."
+  },
+  "metaphorsIntro": {
+    "heading": "Quattro modi per immaginarla",
+    "sub": "La MS si capisce più facilmente attraverso immagini di tutti i giorni che con termini medici."
+  },
+  "metaphors": [
+    {
+      "title": "Il filo danneggiato",
+      "body": "I nervi funzionano come cavi elettrici, e ciascuno è avvolto da uno strato isolante chiamato mielina. Nella MS questo isolamento si danneggia. Il segnale prova comunque a viaggiare, ma rallenta, si disperde o si affievolisce. Ecco perché un corpo che sembra a posto può comunque faticare a fare ciò che il cervello gli chiede."
+    },
+    {
+      "title": "La batteria che si scarica più in fretta",
+      "body": "Molte persone con MS iniziano la giornata con meno energia, e le attività di ogni giorno ne consumano di più. Farsi la doccia, spostarsi per raggiungere un luogo o affrontare una lunga riunione può esaurire la riserva di un intero pomeriggio. Non è pigrizia né mancanza di motivazione: la batteria è semplicemente più piccola e si scarica prima."
+    },
+    {
+      "title": "L'iceberg nascosto",
+      "body": "Quello che vedi (una persona che sembra “perfettamente in forma”) è solo la punta. Sotto la superficie ci sono stanchezza, dolore, formicolii, vista offuscata e annebbiamento mentale. Proprio perché sono invisibili, è facile sottovalutarli. Credere che ci siano è una delle cose più preziose che tu possa fare."
+    },
+    {
+      "title": "Il tempo che cambia",
+      "body": "La MS non sta ferma. I sintomi possono variare da un giorno all'altro, persino di ora in ora, a volte scatenati dal caldo, dallo stress o dalla stanchezza, a volte senza un motivo evidente. Una giornata buona non vuol dire che sia sparita, e una giornata storta non vuol dire che stia peggiorando. È il tempo di oggi, non il clima."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Cosa può significare giorno per giorno",
+    "intro": "Non ci sono due persone con la stessa combinazione, e le cose cambiano nel tempo. Tra le esperienze più comuni ci sono:",
+    "items": [
+      {
+        "title": "Stanchezza",
+        "desc": "Una spossatezza pesante e opprimente che il riposo non sempre risolve."
+      },
+      {
+        "title": "Sensibilità al caldo",
+        "desc": "Il clima afoso, una doccia bollente o la febbre possono peggiorare i sintomi per un po'."
+      },
+      {
+        "title": "Annebbiamento mentale",
+        "desc": "Difficoltà a concentrarsi, a trovare le parole o a ricordare le cose."
+      },
+      {
+        "title": "Movimento ed equilibrio",
+        "desc": "Debolezza, rigidità o instabilità che possono andare e venire."
+      },
+      {
+        "title": "Vista e sensi",
+        "desc": "Vista offuscata o sdoppiata, formicolii, intorpidimento o dolore."
+      },
+      {
+        "title": "Imprevedibilità",
+        "desc": "I sintomi variano da un giorno all'altro, quindi a volte i programmi vanno cambiati."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Cosa aiuta, a seconda di chi sei",
+    "sub": "Piccole cose concrete fanno una differenza reale.",
+    "employers": {
+      "title": "Per datori di lavoro e colleghi",
+      "subtitle": "Al lavoro",
+      "points": [
+        "Offri flessibilità: orari flessibili, giornate da remoto e uno spazio tranquillo aiutano più di quanto immagini.",
+        "Permetti il riposo e una programmazione prevedibile; i cambiamenti improvvisi e le lunghe giornate senza pause hanno un costo elevato.",
+        "Valuta in base ai risultati, non alle ore trascorse alla scrivania o a come una persona appare.",
+        "Chiedi cosa può essere utile e mantieni la riservatezza. Piccoli accorgimenti aiutano a non perdere persone valide."
+      ]
+    },
+    "family": {
+      "title": "Per i familiari",
+      "subtitle": "A casa",
+      "points": [
+        "Credi ai sintomi invisibili, anche nei giorni in cui la persona sembra pienamente in forma.",
+        "Organizzatevi in base all'energia: prevedete momenti di riposo e non riempite troppo la giornata.",
+        "Offri il tuo aiuto, ma lascia che la persona conservi la sua autonomia e le sue scelte.",
+        "Un impegno annullato è la MS che parla, non una mancanza di affetto."
+      ]
+    },
+    "partners": {
+      "title": "Per i partner",
+      "subtitle": "Insieme",
+      "points": [
+        "Parlate apertamente delle giornate belle e di quelle difficili, così potete organizzarvi insieme.",
+        "Condividete il carico mentale di visite e decisioni, senza sostituirvi all'altro.",
+        "Restate prima di tutto partner: non lasciate che tutta la relazione diventi assistenza.",
+        "Prenditi cura anche di te; il sostegno dura più a lungo quando non sei a secco di energie."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Se dovessi ricordare {count} cose",
+    "items": [
+      "Credici, anche quando non lo puoi vedere.",
+      "Sii flessibile: energia e sintomi cambiano.",
+      "Chiedi, non dare per scontato: la MS di ognuno è diversa.",
+      "Una giornata buona non è una guarigione, e una giornata storta non è la fine."
+    ]
+  },
+  "more": {
+    "heading": "Per saperne di più",
+    "intro": "Risorse affidabili sulla vita con la MS:"
+  },
+  "footer": {
+    "disclaimer": "La MS è diversa per ogni persona. Queste sono informazioni generali, non un parere medico. La cosa più preziosa che puoi fare è chiedere alla persona a cui tieni come vive la sua MS.",
+    "printButton": "Stampa o salva come PDF",
+    "madeToShare": "Fatto per essere condiviso",
+    "updated": "Ultimo aggiornamento: luglio 2026"
+  }
+}

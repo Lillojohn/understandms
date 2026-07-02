@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Porozumět MS: srozumitelný průvodce pro lidi kolem někoho, kdo s ní žije",
+    "description": "Srozumitelné a klidné vysvětlení toho, co roztroušená skleróza (MS) znamená v každodenním a pracovním životě, určené zaměstnavatelům, rodině a partnerům.",
+    "ogTitle": "Porozumět MS",
+    "ogDescription": "Co MS znamená v každodenním a pracovním životě, jednoduše vysvětleno pro zaměstnavatele, rodinu a partnery."
+  },
+  "hero": {
+    "badge": "± 2 minuty čtení · klidně sdílejte dál",
+    "h1": "Porozumět MS",
+    "intro": "Srozumitelný a klidný průvodce tím, co roztroušená skleróza znamená v každodenním a pracovním životě, napsaný pro lidi kolem někoho, kdo s ní žije.",
+    "navLabel": "Přejít na sekci",
+    "languageSwitcherLabel": "Zvolte jazyk"
+  },
+  "chips": {
+    "employers": "Pro zaměstnavatele",
+    "family": "Pro rodinu",
+    "partners": "Pro partnery"
+  },
+  "core": {
+    "heading": "Ve zkratce",
+    "body": "MS postihuje nervový systém. Imunitní systém omylem poškozuje ochrannou vrstvu kolem nervů, takže signály mezi mozkem a tělem se mohou zpomalit, poplést, nebo vůbec nedorazit.",
+    "note": "Je celoživotní, u každého je jiná a většina z ní není zvenčí vidět."
+  },
+  "metaphorsIntro": {
+    "heading": "Čtyři způsoby, jak si ji představit",
+    "sub": "MS se snáze chápe přes obrazy z běžného života než přes lékařské pojmy."
+  },
+  "metaphors": [
+    {
+      "title": "Poškozený drát",
+      "body": "Nervy fungují jako elektrické kabely a každý z nich je obalený izolační vrstvou zvanou myelin. U MS se tato izolace poškozuje. Signál se stále snaží projít, ale zpomaluje se, rozptyluje nebo slábne, a proto tělo, které vypadá v pořádku, může mít potíže udělat to, oč ho mozek žádá."
+    },
+    {
+      "title": "Baterie, která se vybíjí rychleji",
+      "body": "Mnoho lidí s MS začíná den s menší energií a běžné úkoly jí spotřebují víc. Sprcha, cesta do práce nebo dlouhá porada můžou vyčerpat celou zásobu na odpoledne. Není to lenost ani nedostatek motivace; baterie je prostě menší a rychleji se vyprázdní."
+    },
+    {
+      "title": "Skrytý ledovec",
+      "body": "To, co vidíte (někdo, kdo vypadá „úplně v pohodě“), je jen špička. Pod hladinou se skrývá únava, bolest, necitlivost, rozmazané vidění a mozková mlha. Protože jsou neviditelné, snadno se podceňují. Věřit jim je jedním z nejlepších způsobů, jak je podpořit."
+    },
+    {
+      "title": "Proměnlivé počasí",
+      "body": "MS nestojí na místě. Příznaky se mohou měnit ze dne na den, i z hodiny na hodinu, někdy je spustí horko, stres nebo únava, jindy bez zjevného důvodu. Dobrý den neznamená, že zmizela, a špatný den neznamená, že se zhoršuje. Je to počasí, ne podnebí."
+    }
+  ],
+  "dayToDay": {
+    "heading": "Co to může znamenat den za dnem",
+    "intro": "Žádní dva lidé nemají stejnou kombinaci a v čase se to mění. Mezi časté zkušenosti patří:",
+    "items": [
+      {
+        "title": "Únava",
+        "desc": "Těžká, zmáhavá únava, kterou odpočinek ne vždy spraví."
+      },
+      {
+        "title": "Citlivost na teplo",
+        "desc": "Teplé počasí, horká sprcha nebo horečka mohou příznaky nakrátko zhoršit."
+      },
+      {
+        "title": "Mozková mlha",
+        "desc": "Potíže se soustředěním, hledáním slov nebo pamatováním."
+      },
+      {
+        "title": "Pohyblivost a rovnováha",
+        "desc": "Slabost, ztuhlost nebo nejistota, které mohou přicházet a odcházet."
+      },
+      {
+        "title": "Zrak a smysly",
+        "desc": "Rozmazané nebo dvojité vidění, brnění, necitlivost nebo bolest."
+      },
+      {
+        "title": "Nepředvídatelnost",
+        "desc": "Příznaky se mění ze dne na den, takže plány se někdy musí změnit."
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Co pomáhá, podle toho, kdo jste",
+    "sub": "Malé, praktické věci dělají skutečný rozdíl.",
+    "employers": {
+      "title": "Pro zaměstnavatele a kolegy",
+      "subtitle": "V práci",
+      "points": [
+        "Nabídněte flexibilitu: pružná pracovní doba, dny z domova a klidné místo pomůžou víc, než byste čekali.",
+        "Umožněte odpočinek a předvídatelné plánování; náhlé změny a dlouhé dny bez přestávek jsou náročné.",
+        "Posuzujte podle výsledků, ne podle hodin u stolu nebo toho, jak někdo vypadá.",
+        "Zeptejte se, co by pomohlo, a zacházejte s tím důvěrně. Malé úpravy udrží schopné lidi v týmu."
+      ]
+    },
+    "family": {
+      "title": "Pro rodinu",
+      "subtitle": "Doma",
+      "points": [
+        "Věřte neviditelným příznakům i ve dnech, kdy někdo vypadá naprosto zdravě.",
+        "Plánujte s ohledem na energii: počítejte s odpočinkem a den příliš nenacpávejte.",
+        "Nabídněte pomoc, ale nechte jim jejich samostatnost a rozhodování.",
+        "Zrušený plán je řeč MS, ne nedostatek zájmu."
+      ]
+    },
+    "partners": {
+      "title": "Pro partnery",
+      "subtitle": "Spolu",
+      "points": [
+        "Mluvte otevřeně o dobrých i těžkých dnech, abyste mohli plánovat společně.",
+        "Sdílejte psychickou zátěž kolem vyšetření a rozhodnutí, aniž byste vše přebírali.",
+        "Zůstaňte především partnery: nedovolte, aby se celý váš vztah proměnil v pečování.",
+        "Pečujte i o sebe; podpora vydrží déle, když nejste úplně vyčerpaní."
+      ]
+    }
+  },
+  "takeaways": {
+    "headingTemplate": "Když si zapamatujete {count} věci",
+    "items": [
+      "Věřte tomu, i když to nevidíte.",
+      "Buďte pružní: energie a příznaky se mění.",
+      "Ptejte se, nepředpokládejte: MS má každý jinou.",
+      "Dobrý den není uzdravení a špatný den není konec."
+    ]
+  },
+  "more": {
+    "heading": "Zjistit více",
+    "intro": "Spolehlivé zdroje o životě s MS:"
+  },
+  "footer": {
+    "disclaimer": "MS je u každého jiná. Toto je obecná informace, ne lékařská rada. Nejcennější, co můžete udělat, je zeptat se člověka, na kterém vám záleží, jaké to jeho MS je.",
+    "printButton": "Vytisknout nebo uložit jako PDF",
+    "madeToShare": "Vytvořeno pro sdílení",
+    "updated": "Naposledy aktualizováno: červenec 2026"
+  }
+}
